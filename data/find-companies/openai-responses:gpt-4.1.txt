@@ -1,0 +1,121 @@
+Here is a list of 50 small-cap companies, each with a market capitalization under $300 million and listed on U.S. exchanges, along with brief descriptions and relevant information:
+
+1. **Palladyne AI Corp. (PDYN)**
+   - *Exchange:* NASDAQ
+   - *Description:* Develops artificial intelligence solutions for various industries.
+   - *Relevant Information:* Reported revenue of $4.36 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+2. **LightWave Acquisition Corp. (LWAC)**
+   - *Exchange:* NASDAQ
+   - *Description:* A special purpose acquisition company (SPAC) seeking merger opportunities.
+   - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+3. **CompX International Inc. (CIX)**
+   - *Exchange:* NYSE American
+   - *Description:* Manufactures security products and precision slides.
+   - *Relevant Information:* Generated revenue of $152.72 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+4. **Launch Two Acquisition Corp. (LPBB)**
+   - *Exchange:* NASDAQ
+   - *Description:* A SPAC focused on identifying and merging with a target company.
+   - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+5. **T1 Energy Inc. (TE)**
+   - *Exchange:* NYSE
+   - *Description:* Engages in energy exploration and production.
+   - *Relevant Information:* Reported revenue of $189.16 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+6. **Chicago Atlantic Real Estate Finance, Inc. (REFI)**
+   - *Exchange:* NASDAQ
+   - *Description:* Operates as a real estate finance company.
+   - *Relevant Information:* Generated revenue of $56.61 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+7. **ReposiTrak, Inc. (TRAK)**
+   - *Exchange:* NASDAQ
+   - *Description:* Provides compliance management and track-and-trace solutions.
+   - *Relevant Information:* Reported revenue of $22.03 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+8. **Artius II Acquisition Inc. (AACB)**
+   - *Exchange:* NASDAQ
+   - *Description:* A SPAC targeting business combinations.
+   - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+9. **NACCO Industries, Inc. (NC)**
+   - *Exchange:* NYSE
+   - *Description:* Engages in mining and natural resources management.
+   - *Relevant Information:* Generated revenue of $265.88 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+10. **Foghorn Therapeutics Inc. (FHTX)**
+    - *Exchange:* NASDAQ
+    - *Description:* A clinical-stage biopharmaceutical company focusing on gene regulation therapies.
+    - *Relevant Information:* Reported revenue of $24.17 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+11. **Horizon Technology Finance Corporation (HRZN)**
+    - *Exchange:* NASDAQ
+    - *Description:* Provides secured loans to venture capital-backed companies.
+    - *Relevant Information:* Generated revenue of $97.14 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+12. **Alliance Entertainment Holding Corporation (AENT)**
+    - *Exchange:* NASDAQ
+    - *Description:* Distributes music, movies, and consumer electronics.
+    - *Relevant Information:* Reported revenue of $1.07 billion. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+13. **HCM III Acquisition Corp. (HCMA)**
+    - *Exchange:* NASDAQ
+    - *Description:* A SPAC seeking to merge with a target company.
+    - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+14. **Colony Bankcorp, Inc. (CBAN)**
+    - *Exchange:* NASDAQ
+    - *Description:* Operates as a bank holding company.
+    - *Relevant Information:* Generated revenue of $118.53 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+15. **Gambling.com Group Limited (GAMB)**
+    - *Exchange:* NASDAQ
+    - *Description:* Provides digital marketing services for the online gambling industry.
+    - *Relevant Information:* Reported revenue of $147.66 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+16. **scPharmaceuticals Inc. (SCPH)**
+    - *Exchange:* NASDAQ
+    - *Description:* Develops and commercializes pharmaceutical products.
+    - *Relevant Information:* Generated revenue of $49.97 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+17. **Nouveau Monde Graphite Inc. (NMG)**
+    - *Exchange:* NYSE
+    - *Description:* Engages in the exploration and development of graphite properties.
+    - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+18. **Nano Dimension Ltd. (NNDM)**
+    - *Exchange:* NASDAQ
+    - *Description:* Provides additive electronics manufacturing solutions.
+    - *Relevant Information:* Reported revenue of $58.81 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+19. **Highview Merger Corp (HVMC)**
+    - *Exchange:* NASDAQ
+    - *Description:* A SPAC focused on mergers and acquisitions.
+    - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+20. **Western Copper and Gold Corporation (WRN)**
+    - *Exchange:* NYSE American
+    - *Description:* Explores and develops copper and gold properties.
+    - *Relevant Information:* No reported revenue to date. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+21. **RE/MAX Holdings, Inc. (RMAX)**
+    - *Exchange:* NYSE
+    - *Description:* Operates as a franchisor of real estate brokerage services.
+    - *Relevant Information:* Generated revenue of $298.16 million. ([stockanalysis.com](https://stockanalysis.com/list/micro-cap-stocks/?utm_source=openai))
+
+22. **Adverum Biotechnologies, Inc. (ADVM)**
+    - *Exchange:* NASDAQ
+    - *Description:* Focuses on developing gene therapy products for ocular diseases.
+    - *Relevant Information:* Initiated the ARTEMIS Phase 3 study for neovascular age-related macular degeneration. ([sahmcapital.com](https://www.sahmcapital.com/news/content/3-penny-stocks-under-300m-market-cap-to-consider-2025-05-06?utm_source=openai))
+
+23. **Vanda Pharmaceuticals Inc. (VNDA)**
+    - *Exchange:* NASDAQ
+    - *Description:* Develops and commercializes therapies for unmet medical needs.
+    - *Relevant Information:* Filed for FDA approval of Bysanti (milsaperidone), with a decision expected in early 2026. ([sahmcapital.com](https://www.sahmcapital.com/news/content/3-penny-stocks-under-300m-market-cap-to-consider-2025-05-06?utm_source=openai))
+
+24. **ProKidney Corp. (PROK)**
+    - *Exchange:* NASDAQ
+    - *Description:* Develops cell therapy platforms for chronic kidney diseases.
+    - *Relevant Information:* Received regulatory updates for Phase 3 trial strategy for rilparencel. ([sahmcapital.com](https://www.sahmcapital.com/news/content/us-penny-stocks-3-picks-with-market-caps-under-300m-2025-01-27?utm_source=openai)) 

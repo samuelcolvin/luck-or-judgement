@@ -1,0 +1,170 @@
+[
+  {
+    "name": "Palladyne AI Corp.",
+    "symbol": "PDYN",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Develops artificial intelligence solutions for various industries. Reported revenue of $4.36 million."
+  },
+  {
+    "name": "LightWave Acquisition Corp.",
+    "symbol": "LWAC",
+    "exchange": "NASDAQ",
+    "industry": "Investment Vehicles",
+    "full_description": "A special purpose acquisition company (SPAC) seeking merger opportunities. No reported revenue to date."
+  },
+  {
+    "name": "CompX International Inc.",
+    "symbol": "CIX",
+    "exchange": "AMEX",
+    "industry": "Manufacturing",
+    "full_description": "Manufactures security products and precision slides. Generated revenue of $152.72 million."
+  },
+  {
+    "name": "Launch Two Acquisition Corp.",
+    "symbol": "LPBB",
+    "exchange": "NASDAQ",
+    "industry": "Investment Vehicles",
+    "full_description": "A SPAC focused on identifying and merging with a target company. No reported revenue to date."
+  },
+  {
+    "name": "T1 Energy Inc.",
+    "symbol": "TE",
+    "exchange": "NYSE",
+    "industry": "Energy",
+    "full_description": "Engages in energy exploration and production. Reported revenue of $189.16 million."
+  },
+  {
+    "name": "Chicago Atlantic Real Estate Finance, Inc.",
+    "symbol": "REFI",
+    "exchange": "NASDAQ",
+    "industry": "Real Estate",
+    "full_description": "Operates as a real estate finance company. Generated revenue of $56.61 million."
+  },
+  {
+    "name": "ReposiTrak, Inc.",
+    "symbol": "TRAK",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Provides compliance management and track-and-trace software solutions. Reported revenue of $22.03 million."
+  },
+  {
+    "name": "Artius II Acquisition Inc.",
+    "symbol": "AACB",
+    "exchange": "NASDAQ",
+    "industry": "Investment Vehicles",
+    "full_description": "A SPAC targeting business combinations. No reported revenue to date."
+  },
+  {
+    "name": "NACCO Industries, Inc.",
+    "symbol": "NC",
+    "exchange": "NYSE",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Engages in mining and natural resources management. Generated revenue of $265.88 million."
+  },
+  {
+    "name": "Foghorn Therapeutics Inc.",
+    "symbol": "FHTX",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biopharmaceutical company focusing on gene regulation therapies. Reported revenue of $24.17 million."
+  },
+  {
+    "name": "Horizon Technology Finance Corporation",
+    "symbol": "HRZN",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Provides secured loans to venture capital-backed companies. Generated revenue of $97.14 million."
+  },
+  {
+    "name": "Alliance Entertainment Holding Corporation",
+    "symbol": "AENT",
+    "exchange": "NASDAQ",
+    "industry": "Media & Entertainment",
+    "full_description": "Distributes music, movies, and consumer electronics. Reported revenue of $1.07 billion."
+  },
+  {
+    "name": "HCM III Acquisition Corp.",
+    "symbol": "HCMA",
+    "exchange": "NASDAQ",
+    "industry": "Investment Vehicles",
+    "full_description": "A SPAC seeking to merge with a target company. No reported revenue to date."
+  },
+  {
+    "name": "Colony Bankcorp, Inc.",
+    "symbol": "CBAN",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Operates as a bank holding company. Generated revenue of $118.53 million."
+  },
+  {
+    "name": "Gambling.com Group Limited",
+    "symbol": "GAMB",
+    "exchange": "NASDAQ",
+    "industry": "Business Services",
+    "full_description": "Provides digital marketing services for the online gambling industry. Reported revenue of $147.66 million."
+  },
+  {
+    "name": "scPharmaceuticals Inc.",
+    "symbol": "SCPH",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Develops and commercializes pharmaceutical products. Generated revenue of $49.97 million."
+  },
+  {
+    "name": "Nouveau Monde Graphite Inc.",
+    "symbol": "NMG",
+    "exchange": "NYSE",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Engages in the exploration and development of graphite properties. No reported revenue to date."
+  },
+  {
+    "name": "Nano Dimension Ltd.",
+    "symbol": "NNDM",
+    "exchange": "NASDAQ",
+    "industry": "Robotics & Automation",
+    "full_description": "Provides additive electronics manufacturing solutions and 3D printing technologies. Reported revenue of $58.81 million."
+  },
+  {
+    "name": "Highview Merger Corp",
+    "symbol": "HVMC",
+    "exchange": "NASDAQ",
+    "industry": "Investment Vehicles",
+    "full_description": "A SPAC focused on mergers and acquisitions. No reported revenue to date."
+  },
+  {
+    "name": "Western Copper and Gold Corporation",
+    "symbol": "WRN",
+    "exchange": "AMEX",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Explores and develops copper and gold properties. No reported revenue to date."
+  },
+  {
+    "name": "RE/MAX Holdings, Inc.",
+    "symbol": "RMAX",
+    "exchange": "NYSE",
+    "industry": "Real Estate",
+    "full_description": "Operates as a franchisor of real estate brokerage services. Generated revenue of $298.16 million."
+  },
+  {
+    "name": "Adverum Biotechnologies, Inc.",
+    "symbol": "ADVM",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Develops gene therapy products for ocular diseases. Initiated the ARTEMIS Phase 3 study for neovascular age-related macular degeneration."
+  },
+  {
+    "name": "Vanda Pharmaceuticals Inc.",
+    "symbol": "VNDA",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Develops and commercializes therapies for unmet medical needs. Filed for FDA approval of Bysanti (milsaperidone), with a decision expected in early 2026."
+  },
+  {
+    "name": "ProKidney Corp.",
+    "symbol": "PROK",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Develops cell therapy platforms for chronic kidney diseases. Received regulatory updates for Phase 3 trial strategy for rilparencel."
+  }
+]

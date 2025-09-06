@@ -1,0 +1,177 @@
+[
+  {
+    "name": "AudioEye Inc.",
+    "symbol": "AEYE",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Creates cloud-based cross-platform/cross-browser screen reader and voice-driven technologies to improve accessibility of internet content. Benefits from an innovative product portfolio, solid partnerships, and a rich partner base. Shares have surged 211.1% year to date. Market cap cited at about $205.3 million."
+  },
+  {
+    "name": "Serve Robotics Inc.",
+    "symbol": "SERV",
+    "exchange": "NASDAQ",
+    "industry": "Robotics & Automation",
+    "full_description": "Maker of autonomous food delivery robots, spun off from Uber in 2021, which remains a major investor. Revenue grew about 150% in Q1 2025; recently launched service in Atlanta. High-risk profile but meaningful upside potential typical of small caps."
+  },
+  {
+    "name": "Climb Global Solutions Inc.",
+    "symbol": "CLMB",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Value-added IT distribution and solutions company specializing in emerging and disruptive technologies. Note: Market cap cited around $593 million, above the $300M threshold."
+  },
+  {
+    "name": "Magnite Inc.",
+    "symbol": "MGNI",
+    "exchange": "NASDAQ",
+    "industry": "Media & Entertainment",
+    "full_description": "Operates an independent omni-channel sell-side advertising platform enabling automated buying and selling of digital ad inventory across channels and formats; formed via the 2020 merger of Rubicon Project and Telaria. Source notes strong five-year annual revenue growth (~33.3%)."
+  },
+  {
+    "name": "Byrna Technologies Inc.",
+    "symbol": "BYRN",
+    "exchange": "NASDAQ",
+    "industry": "Defense & Security",
+    "full_description": "Developer and manufacturer of innovative non-lethal technologies and munitions. Benefiting from positive macro conditions with growing demand, including traction in Latin America; expects strong demand through 2025."
+  },
+  {
+    "name": "Travelzoo Inc.",
+    "symbol": "TZOO",
+    "exchange": "NASDAQ",
+    "industry": "Travel & Hospitality",
+    "full_description": "Operates a membership-based platform for travel enthusiasts. Analysts cited with a Strong Buy consensus and a 12-month target implying significant upside. The stock has outperformed recently, including notable gains over the past year."
+  },
+  {
+    "name": "fuboTV Inc.",
+    "symbol": "FUBO",
+    "exchange": "NYSE",
+    "industry": "Media & Entertainment",
+    "full_description": "Runs a live TV streaming platform focused on sports and news, including local affiliates and sports networks, with unlimited cloud DVR and multi-screen support. Not yet profitable but investing for growth; shares more than doubled in 2025 amid expectations of improving results and potential strategic interest."
+  },
+  {
+    "name": "ThredUp Inc.",
+    "symbol": "TDUP",
+    "exchange": "NASDAQ",
+    "industry": "Consumer & Retail",
+    "full_description": "Operates an online marketplace for secondhand apparel, leveraging demand for high-end fashion at value prices via a virtual thrift model. Recent stock performance has been strong, though a cited source downgraded the rating to Hold. Note: market cap cited around $1.43B, above the $300M threshold."
+  },
+  {
+    "name": "Sweetgreen Inc.",
+    "symbol": "SG",
+    "exchange": "NYSE",
+    "industry": "Consumer & Retail",
+    "full_description": "Fast-casual restaurant company focused on healthy food and beverages, aiming to build healthier communities by connecting people to real food. Significant growth runway with 251 locations as of Q1 2025."
+  },
+  {
+    "name": "The Oncology Institute Inc.",
+    "symbol": "TOI",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Provides oncology care across ~70 clinics in five states, including in-house infusion, outpatient stem cell transplant therapy, patient support services, prescription drug dispensaries, and clinical trials support. Shares have risen sharply in 2025 amid optimism. Note: market cap cited around $354 million (above $300M)."
+  },
+  {
+    "name": "Hippo Holdings Inc.",
+    "symbol": "HIPO",
+    "exchange": "NYSE",
+    "industry": "Financial Services",
+    "full_description": "Insurance technology company. Refocusing on Insurance-as-a-Service and Services segments to reduce exposure to underwriting/weather risks; decreasing net loss and improving accident period loss ratio. Note: market cap cited around $656.3 million (above $300M)."
+  },
+  {
+    "name": "Sorrento Therapeutics Inc.",
+    "symbol": "SRNE",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Oncology-focused biopharmaceutical company developing treatments for cancer and associated pain. Market cap noted as under $300M in the source text."
+  },
+  {
+    "name": "Aldeyra Therapeutics Inc.",
+    "symbol": "ALDX",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Biopharmaceutical company developing therapies for diseases thought to be related to endogenous free aldehydes. Market cap noted as under $300M in the source text."
+  },
+  {
+    "name": "OKYO Pharma Ltd.",
+    "symbol": "OKYO",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biopharma developing therapies for neuropathic corneal pain and dry eye disease. Lead candidate urcosimod is a non-steroidal anti-inflammatory and non-opioid analgesic; FDA granted fast-track designation for neuropathic corneal pain."
+  },
+  {
+    "name": "Spero Therapeutics Inc.",
+    "symbol": "SPRO",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Develops novel treatments for rare diseases and multi-drug resistant bacterial infections. Reported Phase 3 tebipenem HBr trial for cUTIs met its primary endpoint and stopped early for efficacy; shares spiked on the news."
+  },
+  {
+    "name": "Arcutis Biotherapeutics Inc.",
+    "symbol": "ARQT",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Late-stage biopharmaceutical company focused on developing and commercializing treatments for immune-mediated dermatological diseases. Market cap noted as under $300M in the source text."
+  },
+  {
+    "name": "Prime Medicine Inc.",
+    "symbol": "PRME",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Biotechnology company developing genetic therapies using gene editing technology to address a broad spectrum of diseases. Market cap noted as under $300M in the source text."
+  },
+  {
+    "name": "Caribou Biosciences Inc.",
+    "symbol": "CRBU",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biotech developing gene-edited allogeneic cell therapies for hematologic malignancies and autoimmune diseases. A cited analyst placed a Buy rating and $11 target; the stock traded below $1 in early April per the source."
+  },
+  {
+    "name": "Lincoln Educational Services Corp.",
+    "symbol": "LINC",
+    "exchange": "NASDAQ",
+    "industry": "Education",
+    "full_description": "Provides career-oriented postsecondary education through programs in automotive, skilled trades (electrical, HVAC, welding, CNC), health sciences, and IT across Campus Operations and Transitional segments. Tailwinds include demand for practical trades education and a potentially favorable regulatory environment; projecting roughly double-digit revenue growth into FY2026. Note: market cap cited around $694 million (above $300M)."
+  },
+  {
+    "name": "Industrial Logistics Properties Trust",
+    "symbol": "ILPT",
+    "exchange": "NASDAQ",
+    "industry": "Real Estate",
+    "full_description": "Real estate investment trust focused on industrial/logistics properties. Benefited from e-commerce growth and supply chain hardening; shares rose about 58.8% year to date in 2025. Market cap cited as under $400M."
+  },
+  {
+    "name": "Nine Energy Service Inc.",
+    "symbol": "NINE",
+    "exchange": "NYSE",
+    "industry": "Energy",
+    "full_description": "Oilfield services company delivering tailored, technology-enabled solutions and leveraging world-class resources to enhance efficiencies. Market cap cited around $41.1 million."
+  },
+  {
+    "name": "Flotek Industries Inc.",
+    "symbol": "FTK",
+    "exchange": "NYSE",
+    "industry": "Energy",
+    "full_description": "Chemistry and data technology company serving energy and industrial markets globally through Chemistry Technologies and Data Analytics segments, leveraging 170+ patents and extensive field/lab data to optimize chemistry and provide near real-time operational insights."
+  },
+  {
+    "name": "Tullow Oil PLC",
+    "symbol": "TUWOY",
+    "exchange": "NYSE",
+    "industry": "Energy",
+    "full_description": "Oil exploration and production company. Market cap noted as under $300M in the source text."
+  },
+  {
+    "name": "Dorchester Minerals LP",
+    "symbol": "DMLP",
+    "exchange": "NASDAQ",
+    "industry": "Energy",
+    "full_description": "Energy royalty company that collects royalties from owned oil and gas interests without drilling capital needs. Valuation cited at ~12x trailing earnings with a quarterly dividend implying ~10.2% yield and no debt, per the source."
+  },
+  {
+    "name": "Epsilon Energy Ltd.",
+    "symbol": "EPSN",
+    "exchange": "NASDAQ",
+    "industry": "Energy",
+    "full_description": "Market cap noted as under $300M in the source text. No additional description provided."
+  }
+]

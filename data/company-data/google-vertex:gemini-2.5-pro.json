@@ -1,0 +1,450 @@
+[
+  {
+    "name": "8x8, Inc.",
+    "symbol": "EGHT",
+    "exchange": "NASDAQ",
+    "industry": "Telecommunications",
+    "full_description": "Provides contact center, voice, video, chat, and enterprise-class API solutions worldwide. Positive: Generated a record $63.6 million in operating cash flow in fiscal year 2025, marking the highest two-year total in company history. Negative: Revenue for 2024 was $715.07 million, a decrease of 1.87% from the previous year."
+  },
+  {
+    "name": "AirJoule Technologies Corporation",
+    "symbol": "AIRJ",
+    "exchange": "NASDAQ",
+    "industry": "Energy",
+    "full_description": "An atmospheric renewable energy and water harvesting technology company. Positive: Recently announced a memorandum of understanding with a data center developer to advance onsite water production using waste heat. Negative: The stock price has been on a downward trend."
+  },
+  {
+    "name": "America's Car-Mart, Inc.",
+    "symbol": "CRMT",
+    "exchange": "NASDAQ",
+    "industry": "Consumer & Retail",
+    "full_description": "An automotive retailer focused on the integrated auto sales and finance segment of the used car market. Positive: Operates over 150 dealerships in 12 states. Negative: The used car market can be sensitive to economic downturns."
+  },
+  {
+    "name": "AudioEye, Inc.",
+    "symbol": "AEYE",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Provides digital accessibility solutions. Positive: Operates in a growing market as web accessibility becomes a legal and social priority. Negative: Faces competition from other digital accessibility service providers."
+  },
+  {
+    "name": "Barnes & Noble Education, Inc.",
+    "symbol": "BNED",
+    "exchange": "NYSE",
+    "industry": "Education",
+    "full_description": "Provider of educational products and services for colleges, universities, and K-12 schools. Positive: A well-established brand in the education sector. Negative: The shift to digital textbooks and online learning presents ongoing challenges to its traditional business model."
+  },
+  {
+    "name": "BrainsWay Ltd.",
+    "symbol": "BWAY",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Commercial-stage medical device company focused on non-invasive neurostimulation treatments. Positive: Developing treatments for major depressive disorder and obsessive-compulsive disorder. Negative: Faces a rigorous and lengthy regulatory approval process for new treatments."
+  },
+  {
+    "name": "Cadiz Inc.",
+    "symbol": "CDZI",
+    "exchange": "NASDAQ",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Natural resources company dedicated to providing sustainable water and agricultural solutions. Positive: Focused on a critical and in-demand resource. Negative: Projects can be subject to regulatory hurdles and environmental opposition."
+  },
+  {
+    "name": "Cartesian Therapeutics, Inc.",
+    "symbol": "RNAC",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biotechnology company developing mRNA cell therapies for autoimmune diseases. Positive: Revenue in 2024 was $38.91 million, a 49.64% increase from the previous year. Negative: Reported losses of $77.42 million in 2024."
+  },
+  {
+    "name": "Citizens Financial Services, Inc.",
+    "symbol": "CZFS",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Bank holding company providing various banking products and services. Positive: Reported a 14.98% increase in revenue and a 56.18% increase in earnings in 2024. Negative: As a regional bank, performance can be closely tied to the economic health of its operating areas."
+  },
+  {
+    "name": "Cloudastructure Inc.",
+    "symbol": "CSAI",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "AI-powered security company providing cloud-based video surveillance. Positive: Reported 125% year-over-year revenue growth and recently raised $4.5 million in funding. Negative: Operates in a competitive and rapidly evolving technology sector."
+  },
+  {
+    "name": "Colony Bankcorp, Inc.",
+    "symbol": "CBAN",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Bank holding company for Colony Bank providing banking products and services. Positive: Long-standing community bank with a presence in Georgia. Negative: The banking sector is sensitive to interest rate fluctuations."
+  },
+  {
+    "name": "CompX International Inc.",
+    "symbol": "CIX",
+    "exchange": "NYSE",
+    "industry": "Manufacturing",
+    "full_description": "Manufacturer of security products and recreational marine components. Positive: Serves a diverse range of markets, which can provide stability. Negative: The recreational marine market can be cyclical and dependent on consumer discretionary spending."
+  },
+  {
+    "name": "CuriosityStream Inc.",
+    "symbol": "CURI",
+    "exchange": "NASDAQ",
+    "industry": "Media & Entertainment",
+    "full_description": "Media company and subscription video-on-demand service offering documentary programming. Positive: Operates in the growing streaming services market. Negative: Faces intense competition from larger, more established streaming platforms."
+  },
+  {
+    "name": "Espey Mfg. & Electronics Corp.",
+    "symbol": "ESP",
+    "exchange": "AMEX",
+    "industry": "Defense & Security",
+    "full_description": "Power electronics design and OEM manufacturer for military and industrial applications. Positive: Long history serving the defense industry, which can provide stable, long-term contracts. Negative: Business is dependent on government defense spending, which can be subject to political changes."
+  },
+  {
+    "name": "Ever-Glory International Group, Inc.",
+    "symbol": "EVG",
+    "exchange": "NASDAQ",
+    "industry": "Consumer & Retail",
+    "full_description": "Retailer of branded fashion apparel and global supply chain solutions provider. Positive: Has a presence in the large Chinese consumer market. Negative: The fashion retail industry is highly competitive and subject to rapidly changing consumer trends."
+  },
+  {
+    "name": "FlexShopper, Inc.",
+    "symbol": "FPAY",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Financial and technology company providing lease-to-own solutions. Positive: Caters to consumers who may not have access to traditional credit. Negative: The lease-to-own model can face regulatory scrutiny and is sensitive to consumer financial health."
+  },
+  {
+    "name": "Galectin Therapeutics Inc.",
+    "symbol": "GALT",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Biotechnology company engaged in drug R&D for fibrotic disease and cancer. Positive: Recently reported a 68% reduction in new varices with belapectin in a U.S. cohort of a clinical trial. Negative: Clinical-stage and does not yet have a product on the market."
+  },
+  {
+    "name": "Gambling.com Group Limited",
+    "symbol": "GAMB",
+    "exchange": "NASDAQ",
+    "industry": "Media & Entertainment",
+    "full_description": "Performance marketing company for the online gambling industry. Positive: Operates in the rapidly expanding online gambling market. Negative: Industry is subject to complex and evolving regulatory frameworks."
+  },
+  {
+    "name": "Happiness Biotech Group Ltd",
+    "symbol": "HAPP",
+    "exchange": "NASDAQ",
+    "industry": "Nutrition & Wellness",
+    "full_description": "Engaged in the R&D, manufacturing, and sale of nutraceutical and dietary supplement products. Positive: Operates in the growing health and wellness sector. Negative: Faces a crowded and competitive market for dietary supplements."
+  },
+  {
+    "name": "High Tide Inc.",
+    "symbol": "HITI",
+    "exchange": "NASDAQ",
+    "industry": "Cannabis",
+    "full_description": "Cannabis-focused company with operations in retail, e-commerce, and wholesale. Positive: Positioned in the growing legal cannabis market. Negative: The cannabis industry faces significant regulatory and legal challenges."
+  },
+  {
+    "name": "Horizon Technology Finance Corporation",
+    "symbol": "HRZN",
+    "exchange": "NASDAQ",
+    "industry": "Investment Vehicles",
+    "full_description": "Specialty finance company providing capital to venture-backed companies. Positive: Diversified portfolio of investments in technology and life science companies. Negative: Portfolio performance is tied to the success of early-stage, high-risk companies."
+  },
+  {
+    "name": "iCoreConnect Inc.",
+    "symbol": "ICCT",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Cloud-based software and technology company providing HIPAA-compliant solutions. Positive: Reported a 66% revenue increase in Q2 2024. Negative: Has faced delisting notices and has a history of stock price volatility."
+  },
+  {
+    "name": "Intellicheck, Inc.",
+    "symbol": "IDN",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Technology company providing identity verification solutions. Positive: Reported a 5.77% increase in revenue for 2024 and a 53.64% reduction in net loss year over year. Negative: Earnings per share are expected to remain negative in the coming year."
+  },
+  {
+    "name": "International Tower Hill Mines Ltd.",
+    "symbol": "THM",
+    "exchange": "AMEX",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Mineral exploration company focused on the Livengood Gold Project in Alaska. Positive: Value of its primary asset is tied to the price of gold. Negative: As a pre-revenue exploration company, it faces significant development and permitting hurdles."
+  },
+  {
+    "name": "Jerash Holdings (US), Inc.",
+    "symbol": "JRSH",
+    "exchange": "NASDAQ",
+    "industry": "Manufacturing",
+    "full_description": "Manufacturer and exporter of customized sportswear and outerwear. Positive: Revenue increased by 24.43% in 2024. Negative: Reported a net loss of $848,369 in 2024, though this was a reduction from the prior year."
+  },
+  {
+    "name": "John Marshall Bancorp, Inc.",
+    "symbol": "JMSB",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Bank holding company for John Marshall Bank, serving the Washington, D.C. metropolitan area. Positive: Focused on a major metropolitan market. Negative: As a regional bank, performance is tied to the local economy."
+  },
+  {
+    "name": "Kaltura, Inc.",
+    "symbol": "KLTR",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Provides a video creation and management platform for various industries. Positive: Reduced its net loss significantly year-over-year in Q1 2025. Negative: The company is currently unprofitable."
+  },
+  {
+    "name": "LifeMD, Inc.",
+    "symbol": "LFMD",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Direct-to-patient telehealth company. Positive: The telehealth sector has seen significant growth. Negative: Operates in a competitive and evolving healthcare landscape."
+  },
+  {
+    "name": "Lifecore Biomedical, Inc.",
+    "symbol": "LFCR",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Integrated contract development and manufacturing organization (CDMO). Positive: Serves the growing pharmaceutical and medical device industries. Negative: As a CDMO, revenue can be dependent on the success of clients' products."
+  },
+  {
+    "name": "Lineage Cell Therapeutics, Inc.",
+    "symbol": "LCTX",
+    "exchange": "AMEX",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biotechnology company developing therapies for degenerative diseases. Positive: Focused on unmet medical needs. Negative: Clinical-stage biotech companies face long and uncertain paths to profitability."
+  },
+  {
+    "name": "Magnachip Semiconductor Corporation",
+    "symbol": "MX",
+    "exchange": "NYSE",
+    "industry": "Technology & Software",
+    "full_description": "Designer and manufacturer of analog and mixed-signal semiconductor platform solutions. Positive: Strong net cash position of $73.46 million. Negative: Currently unprofitable and stock has underperformed the U.S. semiconductor industry over the past year."
+  },
+  {
+    "name": "MarketWise, Inc.",
+    "symbol": "MKTW",
+    "exchange": "NASDAQ",
+    "industry": "Business Services",
+    "full_description": "Multi-brand platform providing financial research, software, and educational tools for investors. Positive: Reported a 296.13% increase in earnings in 2024. Negative: Revenue decreased by 8.81% in 2024."
+  },
+  {
+    "name": "McCoy Global Inc.",
+    "symbol": "MCCRF",
+    "exchange": "OTC",
+    "industry": "Energy",
+    "full_description": "Provides equipment and technologies for tubular running operations in the energy industry. Positive: Reported an 11.23% increase in revenue and a 35.87% increase in earnings in 2024. Negative: Experienced a dip in profitability due to higher stock-based compensation costs."
+  },
+  {
+    "name": "MicroAlgo Inc.",
+    "symbol": "MLGO",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Engaged in the development of central processing algorithms. Positive: Has experienced significant stock price surges, indicating high trader interest. Negative: The stock is highly volatile and has experienced rapid price declines after surges."
+  },
+  {
+    "name": "Montauk Renewables, Inc.",
+    "symbol": "MNTK",
+    "exchange": "NASDAQ",
+    "industry": "Energy",
+    "full_description": "Renewable energy company that recovers and processes biogas from landfills and other sources. Positive: Earnings for 2024 were $9.73 million. Negative: Earnings decreased by 34.88% compared to the previous year."
+  },
+  {
+    "name": "Motorcar Parts of America, Inc.",
+    "symbol": "MPAA",
+    "exchange": "NASDAQ",
+    "industry": "Manufacturing",
+    "full_description": "Manufactures and distributes automotive replacement parts. Positive: Operates in the non-discretionary auto aftermarket, which can be resilient. Negative: Q4 2025 earnings did not meet analyst expectations."
+  },
+  {
+    "name": "MySize, Inc.",
+    "symbol": "MYSZ",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Technology company that has developed a proprietary measurement technology. Positive: Reported an 18% revenue increase in 2024 and more than doubled its cash reserves. Negative: Has a history of net losses, though losses have been reduced."
+  },
+  {
+    "name": "NACCO Industries, Inc.",
+    "symbol": "NC",
+    "exchange": "NYSE",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Holding company for a portfolio of mining and natural resources businesses. Positive: Diversified operations in the natural resources sector. Negative: The mining industry is cyclical and subject to commodity price fluctuations."
+  },
+  {
+    "name": "Nano Dimension Ltd.",
+    "symbol": "NNDM",
+    "exchange": "NASDAQ",
+    "industry": "Robotics & Automation",
+    "full_description": "Provider of intelligent machines for the fabrication of additively manufactured electronics. Positive: Positioned in the innovative field of 3D-printed electronics. Negative: Has a history of net losses."
+  },
+  {
+    "name": "Neurogene Inc.",
+    "symbol": "NGNE",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage company developing genetic medicines for neurological diseases. Positive: Working on treatments for rare and debilitating diseases. Negative: Faces a long and uncertain path to commercialization."
+  },
+  {
+    "name": "Nouveau Monde Graphite Inc.",
+    "symbol": "NMG",
+    "exchange": "NYSE",
+    "industry": "Mining & Natural Resources",
+    "full_description": "Focused on developing a sustainable source of graphite for the lithium-ion battery and electric vehicle markets. Positive: Positioned to supply a key material for the growing EV market. Negative: In the development stage and not yet profitable."
+  },
+  {
+    "name": "OneConnect Financial Technology Co., Ltd.",
+    "symbol": "OCFT",
+    "exchange": "NYSE",
+    "industry": "Technology & Software",
+    "full_description": "Technology-as-a-service platform for financial institutions. Positive: Part of the growing fintech sector in Asia. Negative: Has faced profitability challenges."
+  },
+  {
+    "name": "Optical Cable Corporation",
+    "symbol": "OCC",
+    "exchange": "NASDAQ",
+    "industry": "Telecommunications",
+    "full_description": "Manufacturer of fiber optic and copper data communication cabling and connectivity solutions. Positive: Experienced a significant premarket stock surge in July 2025. Negative: The telecommunications hardware market is competitive."
+  },
+  {
+    "name": "Palladyne AI Corp.",
+    "symbol": "PDYN",
+    "exchange": "NASDAQ",
+    "industry": "Robotics & Automation",
+    "full_description": "Software company delivering AI and machine learning to enhance robotic systems. Positive: Reported a 26.68% increase in revenue for 2024. Negative: Incurred a Q2 loss amid a revenue drop and contract slowdowns."
+  },
+  {
+    "name": "Park-Ohio Holdings Corp.",
+    "symbol": "PKOH",
+    "exchange": "NASDAQ",
+    "industry": "Manufacturing",
+    "full_description": "Provides supply chain management services, capital equipment, and manufactured components. Positive: Reported a 307.69% increase in earnings for 2024. Negative: Revenue saw a slight decrease of 0.21% in 2024."
+  },
+  {
+    "name": "Passage Bio, Inc.",
+    "symbol": "PASG",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Genetic medicines company focused on therapies for rare monogenic CNS diseases. Positive: Addressing diseases with high unmet medical needs. Negative: Clinical-stage company with the inherent risks of drug development."
+  },
+  {
+    "name": "Paysign, Inc.",
+    "symbol": "PAYS",
+    "exchange": "NASDAQ",
+    "industry": "Financial Services",
+    "full_description": "Provider of prepaid card programs and integrated payment processing services. Positive: Operates in the expanding digital payments space. Negative: The prepaid card market is competitive."
+  },
+  {
+    "name": "Power REIT",
+    "symbol": "PW",
+    "exchange": "AMEX",
+    "industry": "Real Estate",
+    "full_description": "Real estate investment trust focused on properties related to controlled environment agriculture, renewable energy, and transportation. Positive: Positioned in high-growth sectors like cannabis cultivation and renewable energy. Negative: Focus on niche markets could increase risk."
+  },
+  {
+    "name": "Pulmonx Corporation",
+    "symbol": "LUNG",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Commercial-stage medical technology company providing a minimally invasive treatment for severe emphysema. Positive: Reported revenue growth in Q1 2025. Negative: Currently unprofitable and not expected to reach profitability in the next three years."
+  },
+  {
+    "name": "Radiant Logistics, Inc.",
+    "symbol": "RLGT",
+    "exchange": "AMEX",
+    "industry": "Transportation & Logistics",
+    "full_description": "Third-party logistics and multi-modal transportation services company. Positive: Operates a non-asset-based model, which can be flexible. Negative: The logistics industry is competitive and sensitive to economic conditions."
+  },
+  {
+    "name": "Sanara MedTech Inc.",
+    "symbol": "SMTI",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Medical technology company focused on developing and commercializing surgical and chronic wound care products. Positive: Operates in the growing wound care market. Negative: Competes with larger, more established players."
+  },
+  {
+    "name": "scPharmaceuticals Inc.",
+    "symbol": "SCPH",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Pharmaceutical company focused on products for subcutaneous delivery. Positive: Developing innovative drug delivery systems. Negative: Faces a lengthy and expensive FDA approval process for its products."
+  },
+  {
+    "name": "Serve Robotics Inc.",
+    "symbol": "SERV",
+    "exchange": "NASDAQ",
+    "industry": "Robotics & Automation",
+    "full_description": "Designs, develops, and operates zero-emissions robots for food delivery. Positive: Spun off from Uber and maintains a partnership with Uber Eats. Negative: Reported a net loss of $55.18 million in the last 12 months and its debt has increased."
+  },
+  {
+    "name": "Shattuck Labs, Inc.",
+    "symbol": "STTK",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biotechnology company developing treatments for cancer and autoimmune diseases. Positive: Revenue increased by 245.26% in 2024. Negative: Reported a net loss of $75.41 million in 2024."
+  },
+  {
+    "name": "Shoulder Innovations, Inc.",
+    "symbol": "SI",
+    "exchange": "NYSE",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Medical technology company that designs and commercializes shoulder replacement systems. Positive: Recently launched its InSet Glenoid technology. Negative: As a smaller player in the orthopedic device market, it competes with large, well-established companies."
+  },
+  {
+    "name": "Simulations Plus, Inc.",
+    "symbol": "SLP",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Provider of modeling and simulation software and consulting services for pharmaceutical and biotechnology research. Positive: A key partner for drug development in a growing industry. Negative: Success is tied to the R&D budgets of pharmaceutical companies."
+  },
+  {
+    "name": "TruBridge, Inc.",
+    "symbol": "TBRG",
+    "exchange": "NASDAQ",
+    "industry": "Technology & Software",
+    "full_description": "Provider of healthcare information technology services. Positive: Offers services to the stable and growing healthcare sector. Negative: The healthcare IT market is competitive and subject to changing regulations."
+  },
+  {
+    "name": "Virco Mfg. Corporation",
+    "symbol": "VCO",
+    "exchange": "NASDAQ",
+    "industry": "Manufacturing",
+    "full_description": "Designer and manufacturer of furniture for the K-12 school market. Positive: A leading brand in a niche market. Negative: Business is highly dependent on school funding and procurement cycles."
+  },
+  {
+    "name": "Weebit Nano",
+    "symbol": "WBT",
+    "exchange": "OTC",
+    "industry": "Technology & Software",
+    "full_description": "Developer of advanced semiconductor memory technology (listed on ASX per the provided data). Positive: Reported a 333% year-on-year revenue increase and has a strong cash position after a recent capital raise. Negative: In a high cash-burn phase typical for early-stage tech companies."
+  },
+  {
+    "name": "Westell Technologies, Inc.",
+    "symbol": "WSTL",
+    "exchange": "NASDAQ",
+    "industry": "Telecommunications",
+    "full_description": "Provider of intelligent site management, cell site optimization, and outside plant solutions. Positive: Earnings grew significantly in the trailing twelve months. Negative: The telecommunications equipment market is highly competitive."
+  },
+  {
+    "name": "Weyco Group, Inc.",
+    "symbol": "WEYS",
+    "exchange": "NASDAQ",
+    "industry": "Consumer & Retail",
+    "full_description": "Designs and distributes footwear. Positive: Owns a portfolio of well-known footwear brands. Negative: The footwear industry is subject to fashion trends and intense competition."
+  },
+  {
+    "name": "Xtant Medical Holdings, Inc.",
+    "symbol": "XTNT",
+    "exchange": "AMEX",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Medical technology company focused on regenerative medicine products and medical devices. Positive: Reaffirmed its revenue guidance for 2024. Negative: Reported a net loss in Q3 2024 and remains unprofitable."
+  },
+  {
+    "name": "Xperi Inc.",
+    "symbol": "XPER",
+    "exchange": "NYSE",
+    "industry": "Technology & Software",
+    "full_description": "Consumer and entertainment technology company. Positive: Owns a portfolio of well-known technology brands. Negative: The consumer electronics market is competitive and can be cyclical."
+  },
+  {
+    "name": "Zentalis Pharmaceuticals, Inc.",
+    "symbol": "ZNTL",
+    "exchange": "NASDAQ",
+    "industry": "Healthcare & Life Sciences",
+    "full_description": "Clinical-stage biopharmaceutical company developing small molecule therapeutics for the treatment of cancer. Positive: Has several drug candidates in clinical trials for various cancers. Negative: Pre-revenue and faces the inherent risks of drug development."
+  }
+]

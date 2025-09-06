@@ -1,0 +1,45 @@
+[project]
+name = "luck-or-judgement"
+version = "0.0"
+requires-python = ">=3.13"
+dependencies = [
+    "alpaca-py>=0.42.1",
+    "ipython>=9.5.0",
+    "logfire[httpx]>=4.4.0",
+    "polars>=1.33.0",
+    "pydantic-ai>=1.0.1",
+    "python-dotenv>=1.1.1",
+]
+
+[dependency-groups]
+dev = [
+    "basedpyright>=1.31.4",
+    "ruff>=0.12.12"
+]
+
+[tool.ruff]
+line-length = 120
+target-version = "py313"
+
+[tool.ruff.lint]
+extend-select = ["Q", "RUF100", "C90", "UP", "I"]
+flake8-quotes = { inline-quotes = "single", multiline-quotes = "double" }
+isort = { combine-as-imports = true }
+mccabe = { max-complexity = 18 }
+
+[tool.ruff.lint.pydocstyle]
+convention = "google"
+
+[tool.ruff.format]
+quote-style = "single"
+
+[tool.pyright]
+pythonVersion = "3.13"
+typeCheckingMode = "strict"
+reportUnnecessaryTypeIgnoreComment = true
+# reportIgnoreCommentWithoutRule = true
+reportUnusedParameter = true
+reportIncompatibleUnannotatedOverride = true
+reportImplicitAbstractClass = true
+include = ["src"]
+venv = ".venv"
