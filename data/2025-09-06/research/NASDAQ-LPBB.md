@@ -1,0 +1,7 @@
+Launch Two Acquisition Corp. (LPBB) is a Special Purpose Acquisition Company (SPAC) established to pursue a strategic business combination through a merger or acquisition with an existing company. The company does not engage in significant operations of its own.
+
+The company completed its Initial Public Offering (IPO) on October 9, 2024, raising gross proceeds of $230 million. Units of the company began trading on the Nasdaq Global Market under the ticker symbol "LPBBU" on October 8, 2024. Subsequently, Class A ordinary shares and warrants began separate trading under the symbols "LPBB" and "LPBBW," respectively, commencing November 29, 2024.
+
+Launch Two Acquisition Corp. primarily focuses on identifying acquisition targets within the technology and software infrastructure sectors, specifically those targeting financial services, real estate, and asset management companies.
+
+As of its Form 10-K filing on March 25, 2025, Launch Two Acquisition Corp. had not yet selected a specific business combination target, nor had it initiated any substantive discussions, directly or indirectly, with potential targets. The company has until October 9, 2026, to complete its initial business combination.

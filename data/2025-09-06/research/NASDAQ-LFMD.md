@@ -1,0 +1,13 @@
+LifeMD, Inc. (NASDAQ: LFMD) has experienced several significant developments impacting its performance and outlook in recent months.
+
+The company reported its Second Quarter 2025 financial results on August 5, 2025. Total revenue for the quarter increased 23% year-over-year to $62.2 million, with telehealth revenue specifically growing by 30% to $48.6 million. Adjusted EBITDA saw a substantial rise of 223% to $7.1 million, and telehealth adjusted EBITDA surged by 560% to $3.4 million. As of June 30, 2025, LifeMD had 297,000 active patients and had conducted 1.3 million virtual consults. During this quarter, the company launched a nationwide behavioral health offering and acquired a virtual women's health brand. LifeMD has also been expanding its insurance coverage, now accepting over 100 plans in 40 states, with expectations to double this by year-end.
+
+Despite the growth in the second quarter, LifeMD lowered its full-year 2025 revenue and adjusted EBITDA guidance. This revised outlook was attributed to challenges within its RexMD business segment, specifically higher customer acquisition costs, and increased refund rates in its weight management programs. Following the announcement of the second-quarter results and the revised guidance on August 5, 2025, the company's stock reportedly experienced a significant decline.
+
+In terms of strategic collaborations, LifeMD partnered with Novo Nordisk to introduce a $299 introductory bundle for self-pay patients prescribed Wegovy®, an announcement made on May 22, 2025.
+
+Leadership changes also occurred, with Shayna Webb Dray being appointed as Chief Operating Officer on July 31, 2025, and two other executives receiving promotions.
+
+LifeMD has been actively engaging with the investment community. The company participated in investor conferences in May and June 2025, and has scheduled appearances at three additional investor conferences in September 2025: the Cantor Fitzgerald Global Healthcare Conference (September 3-5), the H.C. Wainwright 27th Annual Global Investment Conference (September 8-10), and the Lake Street Capital Markets 9th Annual Best Ideas Growth Conference (September 11).
+
+Notably, LifeMD is currently facing class-action lawsuits. On September 4, 2025, and September 6, 2025, lawsuits were announced alleging that LifeMD issued materially false and/or misleading statements regarding its business and financial outlook. These lawsuits specifically claim that the company overstated its competitive position and recklessly raised its 2025 guidance without adequately accounting for escalating customer acquisition costs, particularly within its RexMD segment and for obesity-related drugs like Wegovy and Zepbound.

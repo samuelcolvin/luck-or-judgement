@@ -1,0 +1,13 @@
+Western Copper and Gold Corporation (WRN) has several recent developments that may influence its performance.
+
+The company provided an update on its Environmental and Socio-economic Effects Statement (ESE Statement) submission for the Casino Project on July 15, 2025. Western Copper and Gold plans to submit the ESE Statement around July 2025, a revision from the previously estimated submission date of the second half of 2024. This adjustment was made following a detailed review of guidelines, updated work planning, and ongoing engagement with First Nations.
+
+On June 16, 2025, Western Copper and Gold extended and revised its Investor Rights Agreement with Rio Tinto Canada Inc. Under the revised agreement, Rio Tinto will maintain a seat on the Casino Technical and Sustainability Committee.
+
+The company also formally extended its Investor Rights Agreement with Mitsubishi Materials Corporation on May 28, 2025. Mitsubishi Materials acquired two million common shares through open market purchases, increasing their overall ownership to approximately 5%. A representative from Mitsubishi Materials will also join the Casino Technical and Sustainability Committee.
+
+An infrastructure update was released on April 10, 2025, stating that Natural Resources Canada approved $40 million in funding for the B.C.-Yukon Grid Connect Project, with an additional 25% funding commitment from Yukon Development. The agreement for this funding was signed on February 14, 2025. This power infrastructure has the potential to reduce operating costs over the long term. However, some funding previously allocated to the Casino Copper-Gold Access Road was reallocated to the Dempster Highway as part of the Yukon Resource Gateway Project. Furthermore, an updated Port of Skagway transportation study identified promising alternatives with costs aligning with or being lower than 2022 feasibility estimates.
+
+Western Copper and Gold announced the election of directors and voting results from its Annual General Meeting, which was held on June 12, 2025, and reported on June 13, 2025. The company also reported its Q1 2025 financial results on May 9, 2025.
+
+Most recently, as of September 2, 2025, drilling is underway at Western Copper and Gold's 100% owned Kwanika project for the 2025 season. This program involves two drill rigs executing a planned 5,135-meter drill program at the existing Kwanika Central deposit and two exploration targets: Transfer and Andesite Breccia.

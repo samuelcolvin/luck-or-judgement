@@ -1,0 +1,16 @@
+Foghorn Therapeutics Inc. (FHTX) has reported several key developments in the recent quarter, including its Q2 2025 financial results and advancements across its oncology pipeline.
+
+**Recent Developments:**
+
+*   **Second Quarter 2025 Financial Results:** Foghorn Therapeutics announced its Q2 2025 earnings on August 5, 2025. The company reported a basic loss per share from continuing operations of $0.28, which surpassed analysts' consensus estimates of -$0.31. Quarterly revenue was $7.56 million, slightly below the consensus estimate of $7.62 million, but represented an increase in collaboration revenue compared to the previous year. The net loss for the quarter narrowed to $17.9 million, an improvement from $23.0 million in the second quarter of 2024.
+*   **Financial Runway:** As of June 30, 2025, Foghorn Therapeutics held $198.7 million in cash, cash equivalents, and marketable securities, which is projected to provide a cash runway into 2028.
+*   **Pipeline Progress:**
+    *   **FHD-909 (SMARCA2 selective inhibitor):** This lead program is advancing in Phase 1 trials for SMARCA4-mutated cancers, with non-small cell lung cancer (NSCLC) as a primary target. Preclinical data presented at the AACR Annual Meeting in April 2025 demonstrated synergistic anti-tumor activity when FHD-909 was combined with pembrolizumab and KRAS inhibitors. Enrollment for the Phase 1 trial is on track.
+    *   **Selective CBP Degrader:** The company's Selective CBP degrader program is progressing towards IND-enabling studies, with a target IND submission in 2026. Encouraging activity has been observed in ER+ breast cancer, suggesting potential beyond EP300-mutant tumors. Preclinical data presented in April 2025 highlighted combinatorial benefits with approved chemotherapies and targeted agents in solid tumors.
+    *   **Selective EP300 Degrader:** This program has shown robust anti-tumor activity across various hematologic malignancies. Preclinical data were presented at the AACR Annual Meeting in April 2025, and further program updates are anticipated in the fourth quarter of 2025.
+    *   **Selective ARID1B Degrader:** Foghorn has achieved selective targeted degradation with this program. An update on the Selective ARID1B degrader program is expected in the second half of 2025.
+*   **Collaborations:** Increased collaboration revenue was driven by the continued advancement of programs under the Lilly Collaboration Agreement.
+*   **Corporate Activities:**
+    *   On July 1, 2025, Foghorn Therapeutics Inc. entered into a lease agreement with ARE-Ma Region No. 77, LLC.
+    *   The company's management is scheduled to participate in several investor conferences in September 2025, including Citi's 2025 Biopharma Back to School Summit on September 3, the Wells Fargo Healthcare Conference on September 4, and the Morgan Stanley 23rd Annual Global Healthcare Conference on September 8. They plan to hold one-on-one meetings at these events.
+    *   Foghorn Therapeutics filed an 8-K report on September 2, 2025, pertaining to an investor presentation.

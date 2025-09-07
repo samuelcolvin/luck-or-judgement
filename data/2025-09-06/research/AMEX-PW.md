@@ -1,0 +1,13 @@
+Power REIT (PW) Report for Investment Decisions
+
+Power REIT, listed on the AMEX, is a specialized real estate investment trust (REIT) with a portfolio diversified across Controlled Environment Agriculture (CEA), Solar Farm Land, and Railroads. The company is actively pursuing accretive acquisitions, primarily focusing on CEA properties such as greenhouses for food and cannabis cultivation.
+
+Recent performance and developments impacting the stock in the coming quarter include:
+
+*   **Q2 2025 Financial Performance:** Power REIT reported its second-quarter 2025 results on August 5, 2025. The company achieved a net income of $157,706 in Q2 2025, marking a significant recovery compared to a net loss of $19,308,376 in Q2 2024. Despite this, total revenue decreased to $506,783 in Q2 2025 from $519,349 in Q2 2024. This revenue decline is attributed to ongoing challenges in collecting rent from cannabis-related tenants. Core Funds From Operations (FFO) available to common shareholders stood at $407,148 for Q2 2025, showing improvement from a loss in the prior year. The company still faces significant accumulated deficits, totaling $50,780,862 as of June 30, 2025.
+*   **Q1 2025 Financial Performance:** For the first quarter of 2025, reported on May 14, 2025, Power REIT experienced a total revenue decrease to $485,794, down from $534,612 in Q1 2024. Despite this, the net loss improved to $1,413,112 from $2,076,998 in the prior year. Rental income declined significantly due to challenges within the cannabis market, leading to tenant defaults.
+*   **Tenant Concentration and Risk:** As of Q1 2025, a substantial portion of Power REIT's revenue, approximately 98%, was derived from just two tenants, indicating a high concentration risk.
+*   **Debt Restructuring and Asset Management:** As of April 11, 2025, Power REIT entered into a settlement concerning a "Greenhouse Loan" which involved deeds-in-lieu of foreclosure. This action was intended to alleviate financial stress by releasing some collateral back to the Trust, though it may result in a reduced asset portfolio. The company is actively focused on improving operations, pursuing strategic sales of underperforming assets, and restructuring its debt to enhance liquidity and operational flexibility.
+*   **Dividend Suspension:** Power REIT has not declared common or preferred dividends since the fourth quarter of 2022, as part of its efforts to conserve liquidity.
+*   **Upcoming Earnings Release:** Power REIT is scheduled to release its Q3 2025 earnings report on either October 29, 2025, or October 30, 2025.
+*   **Annual Shareholder Meeting:** The company held its 2025 annual meeting of shareholders on August 27, 2025, with the record date set for July 28, 2025.

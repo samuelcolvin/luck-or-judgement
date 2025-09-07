@@ -1,0 +1,7 @@
+John Marshall Bancorp, Inc. (JMSB) has reported several key developments impacting its performance and outlook for the coming quarter.
+
+*   On August 19, 2025, the company announced the extension of its stock repurchase program through August 31, 2026. This program permits the repurchase of up to 700,000 shares, of which 93,103 shares, totaling approximately $1.6 million, have already been repurchased. The repurchases are anticipated to be funded using cash on hand and cash generated from John Marshall Bank's operations.
+*   For the quarter ended June 30, 2025, John Marshall Bancorp, Inc. reported a net income of $5.1 million, marking a 30.7% increase from the $3.9 million reported for the same period in 2024. The company also highlighted, on July 23, 2025, a 10% annualized loan growth and a 24% annualized earnings per share growth, alongside significant increases in its net interest margin and loan commitments.
+*   Keefe, Bruyette & Woods (KBW) initiated coverage on John Marshall Bancorp, Inc. on July 21, 2025, assigning an "Outperform" rating with a price target of $22.00.
+*   The company's management is slated to participate in the Raymond James 2025 U.S. Bank Conference in Chicago, IL, on September 3, 2025.
+*   John Marshall Bancorp's Q3 2025 earnings report is scheduled for Wednesday, October 22, 2025.

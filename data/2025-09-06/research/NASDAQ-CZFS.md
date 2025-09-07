@@ -1,0 +1,11 @@
+Citizens Financial Services, Inc. (CZFS) recently reported strong financial results for the second quarter of 2025 and has upcoming earnings expectations, alongside recent insider trading activity.
+
+For the second quarter ended June 30, 2025, Citizens Financial Services, Inc. reported unaudited financial results on July 30, 2025. The company's net income for the quarter was $8.5 million, marking a 60.4% increase compared to the second quarter of 2024. Basic earnings per share (EPS) for Q2 2025 were $1.76, which exceeded analysts' consensus estimates of $1.62. Revenue, net of interest expense, was reported as $27.3 million. The Return on Average Equity (ROAE) for Q2 2025 improved to 10.88% from 7.40% in Q2 2024, and the net interest margin increased to 3.47% from 3.15% a year prior.
+
+The company's upcoming earnings report for the third quarter of 2025 is estimated for Wednesday, October 29, 2025. The consensus EPS forecast for Q3 2025 is $1.76.
+
+Regarding the impact of the HV Bancorp, Inc. (HVB) acquisition, which was completed on June 16, 2023, non-performing assets decreased by $1.24 million since December 2024. However, they remain higher than June 2024 levels due to loans acquired in the HVB acquisition. The company noted a modest increase in charge-offs on loans originated by HVB's Braavo division as it exits this business line. The sale of certain assets from the HVB acquisition, including the Braavo division, was completed in Q1 2024 and generated a pre-tax gain of approximately $1.1 million.
+
+Recent insider trading activity indicates some selling by company executives and directors. On August 22, 2025, Director Thomas Freeman sold 3,000 shares, bringing his total sales over the past year to 3,000 shares with no purchases. Additionally, on August 31, 2025, Senior VP Stephen J. Guillaume sold 4,523.8348 shares. Over the last 24 months, there have been total insider sales of 5,452 shares for approximately $268,447.02, compared to insider purchases of 3,659 shares for about $182,519.06.
+
+In other news, the Board of Directors declared a quarterly cash dividend and a 1% stock dividend on June 3, 2025. Analysts currently maintain a "strong buy" rating on the stock.

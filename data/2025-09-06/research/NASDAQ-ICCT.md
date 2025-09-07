@@ -1,0 +1,10 @@
+iCoreConnect Inc. (ICCT) has recently faced significant corporate and financial developments.
+
+*   The company was delisted from the Nasdaq Stock Market LLC, effective May 22, 2025. This action was taken due to iCoreConnect's failure to file its annual Form 10-K for the year ended December 31, 2024, and its quarterly Form 10-Q for the quarter ended March 31, 2025. Despite being granted extensions until May 15, 2025, for the 10-K and until June 30, 2025, to demonstrate overall compliance with listing requirements, the company did not meet these deadlines. Trading of iCoreConnect's common stock on Nasdaq was suspended, and the stock is expected to be quoted on the OTC Market.
+*   On June 2, 2025, iCoreConnect Inc., along with an affiliate, filed a voluntary petition for reorganization under Chapter 11 in the U.S. Bankruptcy Court for the Middle District of Florida.
+*   The company settled a lawsuit with PIGI Solutions, LLC, on May 6, 2025, agreeing to pay $3,099,747, which included claimed debt and related expenses, to avoid a public auction of its assets. This payment was due by May 30, 2025.
+*   In 2024, iCoreConnect's revenue was $10.75 million, marking a 31.83% increase from the previous year, but the company reported losses of -$33.20 million.
+*   The company announced a 1-for-20 reverse stock split effective December 20, 2024.
+*   On October 1, 2024, iCoreConnect Inc. agreed to divest its Managed Service Provider (MSP) Division to The 20 through an asset sale, a strategic move intended to allow the company to focus on its core competencies.
+*   iCoreConnect has continued to expand its endorsement partnerships, including agreements with the Maryland State Dental Association and the Arizona Dental Association, expanding product endorsements.
+*   The next earnings report for iCoreConnect is scheduled for November 17, 2025.

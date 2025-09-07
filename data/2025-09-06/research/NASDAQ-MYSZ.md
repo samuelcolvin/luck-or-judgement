@@ -1,0 +1,21 @@
+MySize, Inc. (MYSZ) has demonstrated strategic shifts and financial developments impacting its operations. The company is transitioning from primarily a sizing company to a comprehensive retail intelligence provider for the fashion industry.
+
+**Recent Financial Performance and Strategic Developments:**
+
+*   **Q2 2025 Financial Results (August 15, 2025):** MySize reported Q2 2025 revenue of $2.0 million, marking a 2% year-over-year increase. The company significantly reduced its operating loss by 49% to $586,000. The recently acquired Percentil platform contributed $180,000 in revenue since its acquisition in May 2025. MySize maintained a cash position of $4.28 million with $2.90 million in inventory as of June 30, 2025.
+*   **H1 2025 Financial Results (August 15, 2025):** For the six months ending June 30, 2025, MySize's revenue declined by 30% to $3.5 million, primarily due to decreasing sales in the Orgad segment. However, the operating loss for the same period saw a 25% reduction to $1.6 million. Gross profit for H1 2025 was $1.5 million, a 30% decrease year-over-year.
+*   **FY 2024 Financial Results (March 28, 2025):** The company reported total revenue of $8.26 million for FY2024, an 18% increase compared to $7.00 million in 2023. Cash and cash equivalents more than doubled to $4.88 million from $2.19 million, and the net loss was reduced by 37% to $3.99 million.
+*   **2025 Strategic Outlook (April 21, 2025):** MySize has signed two Letters of Intent (LOIs) for potential acquisitions in the second-hand apparel and AI shoe technology sectors.
+*   **Acquisition Strategy:** The company's "roll-up strategy" has successfully integrated Orgad and Naiz Fit into the MySize Group, contributing to revenue generation and operational efficiency. The acquisition of Percentil in May 2025 positions MySize to capitalize on new EU legislation mandating sustainability in apparel, viewing regulation as a competitive advantage in the European circular fashion economy. Percentil's contribution is expected to accelerate in the second half of 2025 due to brand partnerships and regulatory compliance demand.
+
+**Key Product and Technology Developments:**
+
+*   **Integrated Virtual Try-On Solution (January 23, 2025):** MySize launched an Integrated Virtual Try-On Solution, combining Naiz Fit's sizing technology with Aiuta's virtual try-on capabilities, following presentations at CES and NRF 2025. The company is in discussions with several leading U.S. fashion brands, aiming to enhance customer experience and reduce returns. Studies suggest this technology can increase conversion rates by up to 40% and reduce return rates by approximately 20%. MySize plans to showcase formal partnerships with this integrated solution by Q2 2025.
+*   **NaizGPT Launch (July 30, 2025):** MySize launched NaizGPT, a conversational AI assistant for retail teams, designed to enhance data analysis for e-commerce professionals through natural language interaction.
+*   **Participation in Industry Events (January 2, 2025; June 5, 2025):** MySize showcased its AI sizing leadership at the Drapers Social Summit 2025 as part of its UK expansion efforts. The company also unveiled new AI-driven solutions at CES 2025 and NRF 2025, including an AI-powered virtual try-on solution, a True Feedback community app, and a Kids AI sizing solution.
+
+**Operational and Management Updates:**
+
+*   **Shift to Retail Intelligence:** MySize is actively shifting its focus to become a comprehensive retail intelligence provider, leveraging its integrated acquisitions (Naiz Fit, Orgad, and Percentil) to offer solutions for size recommendations, product performance analysis, overstock monetization, and regulatory compliance.
+*   **Leadership Appointment (May 30, 2025):** Borja Cembrero Saralegui was appointed as Chief Growth Officer to accelerate global expansion and the circular fashion strategy.
+*   **Financial Discipline:** Despite ongoing investments in AI, integration, and automation, MySize stated it maintains financial discipline with a "runway through 2027" based on current plans, although margins remain negative.

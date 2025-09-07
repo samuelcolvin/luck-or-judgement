@@ -1,0 +1,15 @@
+Cartesian Therapeutics, Inc. (RNAC) Report:
+
+**Recent Business Updates and Financial Performance (Q2 2025)**
+
+Cartesian Therapeutics reported its Second Quarter 2025 financial results on August 7, 2025. The company announced a net income of $15.9 million ($0.51 per share) for Q2 2025. As of June 30, 2025, Cartesian Therapeutics maintained a cash and equivalents balance of approximately $162.1 million, which is anticipated to fund operations into mid-2027, including the completion of its ongoing Phase 3 AURORA trial. Research and development expenses for the three months ended June 30, 2025, were $14.9 million, an increase from $12.7 million in the same period in 2024, primarily due to costs associated with the Phase 3 AURORA trial. General and administrative expenses were $7.2 million for Q2 2025. The company's total revenue for Q2 2025 saw a significant decline to $298,000 compared to $33.45 million in Q2 2024, largely attributed to a decrease in grant revenue. In July 2024, the company announced a private placement equity financing that yielded approximately $130.0 million in gross proceeds, intended to fund pipeline programs and general corporate purposes.
+
+**Clinical Pipeline Advancements (Descartes-08)**
+
+*   **Myasthenia Gravis (MG):** Cartesian Therapeutics initiated its pivotal Phase 3 AURORA trial of Descartes-08 in myasthenia gravis, with the first participant enrolled in May 2025. This trial is designed to evaluate Descartes-08 versus placebo in approximately 100 participants. Prior Phase 2b trial data for Descartes-08 in MG showed deep and sustained benefits through 12 months after a single course of therapy, with an average 4.8-point reduction in the MG-ADL score at Month 12. For participants without prior biologic exposure, an average 7.1-point reduction was observed, and 57% maintained minimum symptom expression at Month 12. Descartes-08 is designed for outpatient administration without the need for preconditioning chemotherapy.
+*   **Systemic Lupus Erythematosus (SLE):** Preliminary data from the ongoing Phase 2 trial of Descartes-08 in systemic lupus erythematosus are anticipated in the second half of 2025. Enrollment for this open-label trial is ongoing.
+*   **Pediatric Autoimmune Indications:** The company plans to initiate a Phase 2 pediatric basket trial of Descartes-08 in select autoimmune indications, including juvenile myasthenia gravis and juvenile systemic lupus erythematosus, in the second half of 2025. Descartes-08 has received Rare Pediatric Disease Designation (RPDD) for Juvenile Dermatomyositis (JDM).
+
+**Other Corporate Activities**
+
+Cartesian Therapeutics participated in several investor conferences in September 2025, including the Cantor Global Healthcare Conference, the Morgan Stanley Healthcare Conference, and the H.C. Wainwright Global Investment Conference. The company also granted new employment inducement awards in August 2025 and June 2025.

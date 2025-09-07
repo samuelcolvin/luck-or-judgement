@@ -1,14 +1,17 @@
+import asyncio
 from datetime import date
 
 import logfire
 from pydantic_ai import Agent, WebSearchTool, WebSearchUserLocation
+from rich.progress import Progress
 
-from shared import Company
+from shared import DATA_DIR, KNOWN_COMPANIES_FILE, Company, companies_schema
 
-logfire.configure()
+logfire.configure(console=False)
 logfire.instrument_pydantic_ai()
 
 research_agent = Agent(
+    model='google-vertex:gemini-2.5-flash',
     builtin_tools=[
         WebSearchTool(
             search_context_size='high',
@@ -51,6 +54,37 @@ def current_date():
     return f"Today's date is {date.today()}."
 
 
-async def research_company(company: Company, model: str) -> str:
-    result = await research_agent.run(f'company_ticker_symbol={company.symbol} name={company.name}', model=model)
-    return result.output
+async def research_company(company: Company) -> str:
+    with logfire.span(f'researching {company.symbol}'):
+        result = await research_agent.run(
+            f'company_ticker_symbol={company.symbol} exchange={company.exchange} company_name={company.name}'
+        )
+        return result.output
+
+
+OUTPUT_DIR = DATA_DIR / str(date.today()) / 'research'
+OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
+
+
+async def main():
+    companies = companies_schema.validate_json(KNOWN_COMPANIES_FILE.read_bytes())
+    sem = asyncio.Semaphore(50)
+    with logfire.span(f'Researching {len(companies)} companies...'):
+        with Progress() as progress:
+            task = progress.add_task(f'Researching {len(companies)} companies...', total=len(companies))
+
+            async def research_company_save(company: Company) -> None:
+                output_file = OUTPUT_DIR / f'{company.identifier()}.md'
+                if not output_file.exists():
+                    async with sem:
+                        research = await research_company(company)
+                    output_file.write_text(research)
+                progress.update(task, advance=1)
+
+            async with asyncio.TaskGroup() as tg:
+                for company in companies:
+                    tg.create_task(research_company_save(company))
+
+
+if __name__ == '__main__':
+    asyncio.run(main())

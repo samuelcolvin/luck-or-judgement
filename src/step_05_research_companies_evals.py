@@ -1,11 +1,9 @@
-from functools import partial
-
 import logfire
 from pydantic_evals import Case, Dataset
 from pydantic_evals.evaluators import IsInstance, LLMJudge
 
 from shared import KNOWN_COMPANIES_FILE, Company, companies_schema
-from step_05_research_companies import research_company
+from step_05_research_companies import research_agent, research_company
 
 logfire.configure(console=False, scrubbing=False)
 logfire.instrument_pydantic_ai()
@@ -43,5 +41,6 @@ dataset = Dataset(
     ],
 )
 
-report = dataset.evaluate_sync(partial(research_company, model='openai-responses:gpt-5'), name='GPT 5')
-report.print(include_input=False, include_output=False)
+with research_agent.override(model='google-vertex:gemini-2.5-flash'):
+    report = dataset.evaluate_sync(research_company, name='Gemini 2.5 flash')
+    report.print(include_input=False, include_output=False)

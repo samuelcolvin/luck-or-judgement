@@ -1,0 +1,8 @@
+Galectin Therapeutics Inc. (NASDAQ: GALT) has released several key updates relevant to its operations and financial standing over the past quarter.
+
+**Recent Developments:**
+
+*   On August 14, 2025, Galectin Therapeutics reported its financial results for the quarter ended June 30, 2025, alongside a business update.
+*   The company announced on July 9, 2025, that it secured a new $10 million unsecured credit line from Richard E. Uihlein, who serves as the company's Board Chairman and largest individual stockholder. This financing is projected to cover the company's expected expenditures through June 2026. The credit line's terms include borrowings at the Applicable Federal Rate plus 2% (currently 6.05%), with principal and interest scheduled for repayment by September 30, 2026.
+*   Galectin Therapeutics hosted a virtual Key Opinion Leader (KOL) event on June 10, 2025. The event focused on belapectin, the company's lead drug candidate, for the treatment of MASH cirrhosis and portal hypertension. Prominent experts, Dr. Naga P. Chalasani and Dr. Naim Alkhouri, participated to discuss unmet medical needs in MASH cirrhosis treatment and present results from the NAVIGATE Phase 3 clinical trial of belapectin.
+*   Additional analysis of data from the NAVIGATE trial indicated a statistically significant 68% reduction in the incidence of new varices with belapectin, compared to placebo, in per-protocol patients (completers) enrolled in the U.S. Furthermore, within the overall per-protocol population, the 2mg dose of belapectin demonstrated a 49% reduction in the incidence of new varices. Belapectin (GR-MD-02) is being developed as a complex carbohydrate drug that targets galectin-3.

@@ -1,4 +1,6 @@
+from dataclasses import dataclass
 from pathlib import Path
+from statistics import mean
 from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, TypeAdapter
@@ -73,5 +75,58 @@ class Company(BaseModel):
     full_description: str
     """Full description of the company"""
 
+    def identifier(self) -> str:
+        return f'{self.exchange}-{self.symbol}'
+
 
 companies_schema = TypeAdapter(list[Company])
+Score = Literal['A', 'B', 'C', 'D', 'E']
+
+
+def score_numeric(score: Score) -> int:
+    return {'A': 5, 'B': 4, 'C': 3, 'D': 2, 'E': 1}[score]
+
+
+class Analysis(BaseModel):
+    """Analysis of a company's financial and operational performance."""
+
+    model_config = ConfigDict(from_attributes=True)
+    quality_score: Score
+    """Quality score of the company - how well its share price is likely to perform over the next 3 months.
+
+    A - Excellent
+    B - Good
+    C - Average
+    D - Poor
+    E - Very Poor
+    """
+    information_score: Score
+    """Information score of the company - how much information we have about this company.
+
+    And factors that might influence its share price.
+
+    A - Excellent
+    B - Good
+    C - Average
+    D - Poor
+    E - Very Poor
+    """
+    strengths: str = ''
+    """Short (one paragraph) summary of factors that may cause the company share price to increase."""
+    weaknesses: str = ''
+    """Short (one paragraph) summary of factors that may cause the company share price to decrease."""
+
+    def score(self) -> float:
+        return score_numeric(self.quality_score) + score_numeric(self.information_score) / 5
+
+
+@dataclass
+class CompanyAnalysis:
+    company: Company
+    analysis: dict[str, Analysis]
+
+    def score(self) -> float:
+        return mean([analysis.score() for analysis in self.analysis.values()])
+
+
+company_analysis_schema = TypeAdapter(list[CompanyAnalysis])

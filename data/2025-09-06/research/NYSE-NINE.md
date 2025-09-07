@@ -1,0 +1,17 @@
+Nine Energy Service Inc. (NINE) has recently reported its second-quarter 2025 financial results and provided an outlook for the third quarter, while navigating challenging market conditions and pursuing strategic growth initiatives.
+
+**Recent Financial Performance (Q2 2025 - Reported August 5-7, 2025):**
+Nine Energy Service reported revenues of $147.3 million for the second quarter of 2025, which was at the upper end of its guidance and surpassed forecasts. Despite this, the company posted a net loss of $(10.4) million, with an earnings per share (EPS) of -$0.2488, missing analyst expectations. Adjusted EBITDA for the quarter was $14.1 million.
+
+The company experienced a roughly 9% increase in Completion Tool revenue and an approximately 11% increase in Wireline revenue quarter-over-quarter. International tools revenue saw significant growth, increasing by approximately 20% in the first half of 2025 compared to the first half of 2024, driven by sales of multi-cycle barrier valves in the Middle East and increased plug sales.
+
+During Q2 2025, Nine Energy Service faced significant rig count declines in the U.S. land market, with over 50 rigs removed between March 28 and July 3, primarily from oil-levered basins like the Permian, leading to pricing pressures across service lines. Natural gas prices also declined in Q2 but maintained supportive sentiment in gas-levered basins, particularly in the Northeast. As of June 30, 2025, the company maintained a total liquidity of $65.5 million, consisting of $14.2 million in cash and $51.3 million available under its revolving credit facility. In July 2025, the company borrowed an additional $13.4 million under its revolving credit facility, partly for fees related to closing a new Asset-Based Lending (ABL) facility. Capital expenditures for Q2 2025 were $6.1 million, and the full-year 2025 capital expenditure guidance remains unchanged at $15 million to $25 million.
+
+**Outlook for Q3 2025:**
+Nine Energy Service anticipates Q3 2025 revenue to be between $135 million and $145 million. The company projects both Q3 revenue and adjusted EBITDA to be lower than Q2 levels due to the full realization of activity and pricing declines that occurred throughout Q2. Management noted the possibility of further rig count reductions in the second half of the year, especially from private operators.
+
+**Strategic Initiatives and Future Outlook:**
+The company is implementing strategic initiatives to improve revenue and margins in a lower rig count environment, including market share gains, expanding its international tools business, research and development (R&D), and cost reduction efforts. Nine is also expanding its completion tools facility in Jacksboro. The company anticipates increased activity in Q1 2026, particularly in the Permian Basin.
+
+**NYSE Listing Notification (Received April 30, 2025):**
+On April 30, 2025, Nine Energy Service received a notification from the New York Stock Exchange (NYSE) regarding non-compliance with Section 802.01C of the NYSE Listed Company Manual. This notice was due to the average closing price of its common stock falling below $1.00 per share over a consecutive 30-trading-day period. The company has a six-month cure period to regain compliance. This notification does not impact the company's business operations or SEC reporting requirements, nor does it result in a default under its material debt agreements.
