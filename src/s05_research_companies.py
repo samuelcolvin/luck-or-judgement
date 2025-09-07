@@ -5,7 +5,7 @@ import logfire
 from pydantic_ai import Agent, WebSearchTool, WebSearchUserLocation
 from rich.progress import Progress
 
-from shared import DATA_DIR, KNOWN_COMPANIES_FILE, Company, companies_schema
+from shared import DAY_RESEARCH_DIR, KNOWN_COMPANIES_FILE, Company, companies_schema
 
 logfire.configure(console=False)
 logfire.instrument_pydantic_ai()
@@ -62,10 +62,6 @@ async def research_company(company: Company) -> str:
         return result.output
 
 
-OUTPUT_DIR = DATA_DIR / str(date.today()) / 'research'
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
-
-
 async def main():
     companies = companies_schema.validate_json(KNOWN_COMPANIES_FILE.read_bytes())
     sem = asyncio.Semaphore(50)
@@ -74,7 +70,7 @@ async def main():
             task = progress.add_task(f'Researching {len(companies)} companies...', total=len(companies))
 
             async def research_company_save(company: Company) -> None:
-                output_file = OUTPUT_DIR / f'{company.identifier()}.md'
+                output_file = DAY_RESEARCH_DIR / f'{company.identifier()}.md'
                 if not output_file.exists():
                     async with sem:
                         research = await research_company(company)

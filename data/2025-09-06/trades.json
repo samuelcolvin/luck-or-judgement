@@ -1,0 +1,131 @@
+[
+  {
+    "amount": "187.50150",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "google-vertex:gemini-2.5-pro",
+      "openai:gpt-5"
+    ],
+    "symbol": "BWAY",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "184.21200",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "google-vertex:gemini-2.5-pro",
+      "openai:gpt-5"
+    ],
+    "symbol": "ARQT",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "88.81650",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "MGNI",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "82.23750",
+    "sources": [
+      "google-vertex:gemini-2.5-pro"
+    ],
+    "symbol": "MPAA",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "65.79000",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "CLMB",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "65.79000",
+    "sources": [
+      "google-vertex:gemini-2.5-pro"
+    ],
+    "symbol": "JMSB",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "62.50050",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "GAMB",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "59.21100",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "BYRN",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "42.76350",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "CIX",
+    "exchange": "AMEX"
+  },
+  {
+    "amount": "36.18450",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805"
+    ],
+    "symbol": "ESP",
+    "exchange": "AMEX"
+  },
+  {
+    "amount": "32.89500",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805"
+    ],
+    "symbol": "LINC",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "26.31600",
+    "sources": [
+      "openai:gpt-5"
+    ],
+    "symbol": "HITI",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "23.02650",
+    "sources": [
+      "openai:gpt-5"
+    ],
+    "symbol": "PROK",
+    "exchange": "NASDAQ"
+  },
+  {
+    "amount": "23.02650",
+    "sources": [
+      "openai:gpt-5"
+    ],
+    "symbol": "XTNT",
+    "exchange": "AMEX"
+  },
+  {
+    "amount": "19.73700",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805"
+    ],
+    "symbol": "CBAN",
+    "exchange": "NASDAQ"
+  }
+]

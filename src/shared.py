@@ -1,9 +1,12 @@
 from dataclasses import dataclass
+from datetime import date
+from decimal import Decimal
 from pathlib import Path
 from statistics import mean
 from typing import Literal
 
 from pydantic import BaseModel, ConfigDict, TypeAdapter
+from pydantic_ai import format_as_xml
 
 ROOT_DIR = Path(__file__).parent.parent
 DATA_DIR = ROOT_DIR / 'data'
@@ -13,7 +16,13 @@ COMPANY_DATA_DIR = DATA_DIR / 'company-data'
 COMPANY_DATA_DIR.mkdir(exist_ok=True, parents=True)
 ASSETS_FILE = DATA_DIR / 'assets.parquet'
 KNOWN_COMPANIES_FILE = DATA_DIR / 'known-companies.json'
+DAY_DATA_DIR = DATA_DIR / str(date.today())
 
+DAY_RESEARCH_DIR = DAY_DATA_DIR / 'research'
+DAY_RESEARCH_DIR.mkdir(parents=True, exist_ok=True)
+DAY_ANALYSIS_FILE = DAY_DATA_DIR / 'analysis.json'
+DAY_PORTFOLIO_FILE = DAY_DATA_DIR / 'portfolio.json'
+TRADES_FILES = DAY_DATA_DIR / 'trades.json'
 
 Industry = Literal[
     'Technology & Software',
@@ -37,6 +46,7 @@ Industry = Literal[
     'Investment Vehicles',
     'Specialized Services',
 ]
+Exchange = Literal['NYSE', 'AMEX', 'OTC', 'ARCA', 'NASDAQ', 'BATS']
 
 
 class Company(BaseModel):
@@ -45,7 +55,7 @@ class Company(BaseModel):
     """Name of the company"""
     symbol: str
     """Ticker symbol of the company"""
-    exchange: Literal['NYSE', 'AMEX', 'OTC', 'ARCA', 'NASDAQ', 'BATS']
+    exchange: Exchange
     """Exchange where the company is listed"""
     industry: Industry
     """Industry the company belongs to.
@@ -119,6 +129,15 @@ class Analysis(BaseModel):
     def score(self) -> float:
         return score_numeric(self.quality_score) + score_numeric(self.information_score) / 5
 
+    def llm_summary(self) -> str:
+        data = {
+            'quality_score': f'{self.quality_score} (Quality score of the company - how well its share price is likely to perform over the next 3 months. A=Excellent, B=Good, C=Average, D=Poor, E=Very Poor)',
+            'information_score': f'{self.information_score} (Information score of the company - how much information we have about this company. A=Excellent, B=Good, C=Average, D=Poor, E=Very Poor)',
+            'strengths': self.strengths,
+            'weaknesses': self.weaknesses,
+        }
+        return format_as_xml(data)
+
 
 @dataclass
 class CompanyAnalysis:
@@ -128,5 +147,58 @@ class CompanyAnalysis:
     def score(self) -> float:
         return mean([analysis.score() for analysis in self.analysis.values()])
 
+    def llm_xml(self) -> str:
+        analysis = '\n'.join(
+            f'<analysis{i}>\n{analysis.llm_summary()}\n</analysis{i}>'
+            for i, analysis in enumerate(self.analysis.values(), start=1)
+        )
+        return f"""
+<company symbol={self.company.symbol} exchange={self.company.exchange} name={self.company.name}>
+<industry>{self.company.industry}</industry>
+<analysis>
+{analysis}
+</analysis>
+</company>
+"""
+
 
 company_analysis_schema = TypeAdapter(list[CompanyAnalysis])
+
+
+class Investment(BaseModel):
+    """Investment in a single company."""
+
+    model_config = ConfigDict(from_attributes=True)
+    investment_amount: int
+    """Dollar amount to invest in this company."""
+    symbol: str
+    """Ticker symbol of the company."""
+    exchange: Exchange
+    """Exchange where the company is listed"""
+    reason: str
+    """Reason for investing in this company."""
+
+    def identifier(self) -> str:
+        return f'{self.exchange}-{self.symbol}'
+
+
+class Portfolio(BaseModel):
+    """Investment portfolio decided to maximize risk-adjusted returns over one quarter."""
+
+    model_config = ConfigDict(from_attributes=True)
+    investments: list[Investment]
+    """List of investments in this portfolio."""
+
+
+portfolios_schema = TypeAdapter(dict[str, Portfolio])
+
+
+@dataclass
+class Trade:
+    amount: Decimal
+    sources: list[str]
+    symbol: str
+    exchange: Exchange
+
+
+trades_schema = TypeAdapter(list[Trade])

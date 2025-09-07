@@ -1,0 +1,158 @@
+{
+  "anthropic:claude-opus-4-1-20250805": {
+    "investments": [
+      {
+        "investment_amount": 150,
+        "symbol": "MGNI",
+        "exchange": "NASDAQ",
+        "reason": "Strong Q2 2025 performance with 22% EBITDA growth, return to profitability, and potential tailwinds from Google antitrust ruling. CTV segment growing 14% YoY in fastest-growing digital ad segment."
+      },
+      {
+        "investment_amount": 140,
+        "symbol": "ARQT",
+        "exchange": "NASDAQ",
+        "reason": "Exceptional 164% YoY revenue growth, multiple near-term catalysts including October 13 FDA PDUFA date for pediatric indication. Strong third-party validation and path to cash flow breakeven by 2026."
+      },
+      {
+        "investment_amount": 130,
+        "symbol": "CLMB",
+        "exchange": "NASDAQ",
+        "reason": "Outstanding Q2 performance with 73% revenue and 74% net income growth. Strong balance sheet with $28.6M cash and expanding cybersecurity partnerships in high-growth market."
+      },
+      {
+        "investment_amount": 120,
+        "symbol": "BWAY",
+        "exchange": "NASDAQ",
+        "reason": "Record Q2 revenue up 26% YoY with positive profitability. Near-term FDA catalyst in Q4 2025 for accelerated MDD protocol. Strong cash position of $78.3M provides stability."
+      },
+      {
+        "investment_amount": 110,
+        "symbol": "ESP",
+        "exchange": "AMEX",
+        "reason": "Record $158M backlog with 27% YTD revenue growth. Strong U.S. Navy contracts totaling $49.3M secured. Consistent dividend and exposure to multi-year submarine programs."
+      },
+      {
+        "investment_amount": 100,
+        "symbol": "LINC",
+        "exchange": "NASDAQ",
+        "reason": "Strong Q2 execution with 13% revenue growth and 68% adjusted EBITDA increase. Benefits from structural tailwinds in skilled trades education with aggressive expansion strategy."
+      },
+      {
+        "investment_amount": 90,
+        "symbol": "GAMB",
+        "exchange": "NASDAQ",
+        "reason": "30% YoY revenue growth with successful diversification into high-margin sports data services (94.5% gross margin). Raised FY2025 guidance despite headwinds."
+      },
+      {
+        "investment_amount": 80,
+        "symbol": "BYRN",
+        "exchange": "NASDAQ",
+        "reason": "41% YoY revenue growth with strong 62% gross margins. Aggressive retail expansion to 800+ locations by year-end. Debt-free balance sheet provides flexibility."
+      },
+      {
+        "investment_amount": 60,
+        "symbol": "CIX",
+        "exchange": "AMEX",
+        "reason": "Debt-free balance sheet with 12.4% revenue growth and special $1.00 dividend. Marine components segment showing 26% growth driven by government contracts."
+      },
+      {
+        "investment_amount": 60,
+        "symbol": "CBAN",
+        "exchange": "NASDAQ",
+        "reason": "Strong Q2 EPS beat with ROA above 1%. Strategic TC Bancshares acquisition expected to be immediately accretive to EPS with strong capital ratios providing stability."
+      }
+    ]
+  },
+  "google-vertex:gemini-2.5-pro": {
+    "investments": [
+      {
+        "investment_amount": 300,
+        "symbol": "BWAY",
+        "exchange": "NASDAQ",
+        "reason": "BrainsWay has demonstrated outstanding financial performance with significant year-over-year growth in revenue and profitability. The company has raised its full-year guidance, and has a major near-term catalyst with a potential FDA clearance decision in Q4 2025 for its accelerated MDD protocol. This event could significantly increase the stock's value in the next quarter."
+      },
+      {
+        "investment_amount": 250,
+        "symbol": "ARQT",
+        "exchange": "NASDAQ",
+        "reason": "Arcutis has a major, time-sensitive catalyst within the investment horizon: a PDUFA date on October 13, 2025, for a pediatric atopic dermatitis indication for its key drug, ZORYVE. This, combined with the drug's strong existing revenue growth, presents a significant opportunity for stock appreciation in the coming quarter."
+      },
+      {
+        "investment_amount": 250,
+        "symbol": "MPAA",
+        "exchange": "NASDAQ",
+        "reason": "After a prior miss, the company reported a record Q1 2026, demonstrating a strong return to profitability and cash flow generation. Management raised fiscal 2026 revenue guidance, indicating strong confidence for the upcoming quarters. Favorable industry tailwinds from an aging vehicle fleet provide a solid foundation for continued performance."
+      },
+      {
+        "investment_amount": 200,
+        "symbol": "JMSB",
+        "exchange": "NASDAQ",
+        "reason": "The company reported strong Q2 2025 earnings with 24% annualized EPS growth. Momentum is further supported by a new 'Outperform' rating from Keefe, Bruyette & Woods and an active share repurchase program. These factors suggest a positive outlook for the stock in the near term."
+      }
+    ]
+  },
+  "openai:gpt-5": {
+    "investments": [
+      {
+        "investment_amount": 170,
+        "symbol": "ARQT",
+        "exchange": "NASDAQ",
+        "reason": "Event-driven upside: Oct 13, 2025 PDUFA for pediatric atopic dermatitis could expand ZORYVE’s label; strong revenue momentum (+164% YoY Q2) but acknowledge single‑franchise and seasonality risks."
+      },
+      {
+        "investment_amount": 150,
+        "symbol": "BWAY",
+        "exchange": "NASDAQ",
+        "reason": "Profitable small-cap med device with 26% YoY revenue growth, 75% GM, strong cash; potential Q4’25 FDA clearance for accelerated MDD protocol is a near-term catalyst; lease mix provides visibility."
+      },
+      {
+        "investment_amount": 120,
+        "symbol": "MGNI",
+        "exchange": "NASDAQ",
+        "reason": "Improving profitability (34% adj. EBITDA margin), CTV ex‑TAC +14% YoY, raised FY25 outlook; potential H2 acceleration and political ad tailwinds; note ad-cycle/partner concentration risks."
+      },
+      {
+        "investment_amount": 100,
+        "symbol": "BYRN",
+        "exchange": "NASDAQ",
+        "reason": "Back‑to‑back ~$28M quarters, high gross margins (~62%), retail door expansion and Amazon momentum ahead of Oct earnings; watch inventory/cash working-capital risk."
+      },
+      {
+        "investment_amount": 100,
+        "symbol": "GAMB",
+        "exchange": "NASDAQ",
+        "reason": "30% YoY Q2 growth, rising recurring revenue (51%) and high‑margin sports data segment; raised FY25 guidance and buyback support; key risk is sensitivity to Google algorithm updates."
+      },
+      {
+        "investment_amount": 80,
+        "symbol": "HITI",
+        "exchange": "NASDAQ",
+        "reason": "Record preliminary Q3 revenue/EBITDA and positive FCF; scale leadership in Canadian retail plus entry into Germany adds optionality; sector remains low‑margin and regulatory‑heavy."
+      },
+      {
+        "investment_amount": 70,
+        "symbol": "PROK",
+        "exchange": "NASDAQ",
+        "reason": "Regulatory de‑risking with FDA agreeing to AA path using eGFR slope; positive Phase 2 signal and ASN Kidney Week full data in Nov could drive sentiment; long path and single‑asset risk noted."
+      },
+      {
+        "investment_amount": 70,
+        "symbol": "XTNT",
+        "exchange": "AMEX",
+        "reason": "Turnaround quarter with profitability, margin expansion, raised FY25 guide, and expected H2 royalty revenue; recognize royalty lumpiness and small‑cap volatility."
+      },
+      {
+        "investment_amount": 70,
+        "symbol": "CLMB",
+        "exchange": "NASDAQ",
+        "reason": "Strong Q2 beat (+73% sales, +74% NI), expanding cybersecurity partnerships, clean balance sheet; value‑added distributor with thin margins and integration/transition risks."
+      },
+      {
+        "investment_amount": 70,
+        "symbol": "CIX",
+        "exchange": "AMEX",
+        "reason": "Debt‑free industrial with solid margins, dividend support, and double‑digit growth; near‑term margin headwinds from tariffs/inventory costs warrant smaller weight."
+      }
+    ]
+  }
+}

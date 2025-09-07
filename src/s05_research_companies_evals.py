@@ -2,8 +2,8 @@ import logfire
 from pydantic_evals import Case, Dataset
 from pydantic_evals.evaluators import IsInstance, LLMJudge
 
+from s05_research_companies import research_agent, research_company
 from shared import KNOWN_COMPANIES_FILE, Company, companies_schema
-from step_05_research_companies import research_agent, research_company
 
 logfire.configure(console=False, scrubbing=False)
 logfire.instrument_pydantic_ai()

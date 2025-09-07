@@ -7,7 +7,8 @@ from pydantic_ai import Agent, format_as_xml
 from rich.progress import Progress
 
 from shared import (
-    DATA_DIR,
+    DAY_ANALYSIS_FILE,
+    DAY_RESEARCH_DIR,
     KNOWN_COMPANIES_FILE,
     Analysis,
     Company,
@@ -20,8 +21,6 @@ logfire.configure(console=False)
 logfire.instrument_pydantic_ai()
 
 
-RESEARCH_DIR = DATA_DIR / str(date.today()) / 'research'
-OUTPUT_FILE = DATA_DIR / str(date.today()) / 'analysis.json'
 # model = 'openai:gpt-5'
 # model = 'google-vertex:gemini-2.5-pro'
 model = 'anthropic:claude-opus-4-1-20250805'
@@ -49,7 +48,7 @@ def current_date():
 
 async def analyse_company(company: Company) -> Analysis:
     with logfire.span(f'analysing {company.symbol}'):
-        research_file = RESEARCH_DIR / f'{company.identifier()}.md'
+        research_file = DAY_RESEARCH_DIR / f'{company.identifier()}.md'
         result = await analysis_agent.run(
             format_as_xml({'company': company, 'company_research': research_file.read_text()})
         )
@@ -61,8 +60,8 @@ async def main():
     sem = asyncio.Semaphore(50)
     analysis: list[CompanyAnalysis] = []
     already_analysed: set[str] = set()
-    if OUTPUT_FILE.exists():
-        analysis = company_analysis_schema.validate_json(OUTPUT_FILE.read_bytes())
+    if DAY_ANALYSIS_FILE.exists():
+        analysis = company_analysis_schema.validate_json(DAY_ANALYSIS_FILE.read_bytes())
         for a in analysis:
             for k in a.analysis:
                 already_analysed.add(f'{a.company.identifier()}-{k}')
@@ -94,7 +93,7 @@ async def main():
                         tg.create_task(analyse_company_save(company))
     finally:
         analysis.sort(key=lambda a: a.score(), reverse=True)
-        OUTPUT_FILE.write_bytes(company_analysis_schema.dump_json(analysis, indent=2))
+        DAY_ANALYSIS_FILE.write_bytes(company_analysis_schema.dump_json(analysis, indent=2))
 
     print(f'Analyse complete, {analysis_count} companies analysed, scores:')
     for rating, count in sorted(score_counter.items()):

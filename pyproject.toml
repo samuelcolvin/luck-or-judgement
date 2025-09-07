@@ -4,6 +4,7 @@ version = "0.0"
 requires-python = ">=3.13"
 dependencies = [
     "alpaca-py>=0.42.1",
+    "devtools>=0.12.2",
     "ipython>=9.5.0",
     "logfire[httpx]>=4.4.0",
     "polars>=1.33.0",
