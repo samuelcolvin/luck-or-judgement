@@ -23,6 +23,7 @@ DAY_RESEARCH_DIR.mkdir(parents=True, exist_ok=True)
 DAY_ANALYSIS_FILE = DAY_DATA_DIR / 'analysis.json'
 DAY_PORTFOLIO_FILE = DAY_DATA_DIR / 'portfolio.json'
 TRADES_FILES = DAY_DATA_DIR / 'trades.json'
+TRADES_LOG_DIR = DAY_DATA_DIR / 'trades-log'
 
 Industry = Literal[
     'Technology & Software',

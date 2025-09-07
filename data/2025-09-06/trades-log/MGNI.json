@@ -1,0 +1,63 @@
+{
+  "trade": {
+    "amount": "88.81650",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "MGNI",
+    "exchange": "NASDAQ"
+  },
+  "order_request": {
+    "symbol": "MGNI",
+    "qty": 4.0,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": {
+    "id": "2804ee3e-63d2-4763-8c61-3fa9eefd9bfb",
+    "client_order_id": "65319131-aa58-4a7d-8157-02c84a1dc372",
+    "created_at": "2025-09-07T02:09:56.855579Z",
+    "updated_at": "2025-09-07T02:09:56.856768Z",
+    "submitted_at": "2025-09-07T02:09:56.855579Z",
+    "filled_at": null,
+    "expired_at": null,
+    "expires_at": "2025-09-08T20:00:00Z",
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "63107c75-e53d-4119-9f68-694ee0b1bf3a",
+    "symbol": "MGNI",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "4",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "simple",
+    "order_type": "market",
+    "type": "market",
+    "side": "buy",
+    "time_in_force": "day",
+    "limit_price": null,
+    "stop_price": null,
+    "status": "accepted",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "position_intent": "buy_to_open",
+    "ratio_qty": null
+  }
+}

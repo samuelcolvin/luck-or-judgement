@@ -1,0 +1,62 @@
+{
+  "trade": {
+    "amount": "19.73700",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805"
+    ],
+    "symbol": "CBAN",
+    "exchange": "NASDAQ"
+  },
+  "order_request": {
+    "symbol": "CBAN",
+    "qty": 1.0,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": {
+    "id": "4e350152-b3b2-4628-a250-02d691947f7d",
+    "client_order_id": "f34f2d55-452f-4f95-bb11-620937c49c3e",
+    "created_at": "2025-09-07T02:09:57.988147Z",
+    "updated_at": "2025-09-07T02:09:57.989380Z",
+    "submitted_at": "2025-09-07T02:09:57.988147Z",
+    "filled_at": null,
+    "expired_at": null,
+    "expires_at": "2025-09-08T20:00:00Z",
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "e0f23b6b-c77f-456b-b563-aa2cf9655637",
+    "symbol": "CBAN",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "simple",
+    "order_type": "market",
+    "type": "market",
+    "side": "buy",
+    "time_in_force": "day",
+    "limit_price": null,
+    "stop_price": null,
+    "status": "accepted",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "position_intent": "buy_to_open",
+    "ratio_qty": null
+  }
+}

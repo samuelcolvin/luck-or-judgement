@@ -1,0 +1,28 @@
+{
+  "trade": {
+    "amount": "187.50150",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "google-vertex:gemini-2.5-pro",
+      "openai:gpt-5"
+    ],
+    "symbol": "BWAY",
+    "exchange": "NASDAQ"
+  },
+  "order_request": {
+    "symbol": "BWAY",
+    "qty": 11.826017029328288,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": null
+}

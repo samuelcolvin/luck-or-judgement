@@ -1,0 +1,62 @@
+{
+  "trade": {
+    "amount": "65.79000",
+    "sources": [
+      "google-vertex:gemini-2.5-pro"
+    ],
+    "symbol": "JMSB",
+    "exchange": "NASDAQ"
+  },
+  "order_request": {
+    "symbol": "JMSB",
+    "qty": 3.0,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": {
+    "id": "4d777b43-3477-4594-a536-74aff4f4911b",
+    "client_order_id": "ca42178f-460e-41ed-a366-fb6fdb3a3a13",
+    "created_at": "2025-09-07T02:09:57.143787Z",
+    "updated_at": "2025-09-07T02:09:57.145089Z",
+    "submitted_at": "2025-09-07T02:09:57.143787Z",
+    "filled_at": null,
+    "expired_at": null,
+    "expires_at": "2025-09-08T20:00:00Z",
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "b3a39f19-e903-43f9-b60e-0094cfe4b5b5",
+    "symbol": "JMSB",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "3",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "simple",
+    "order_type": "market",
+    "type": "market",
+    "side": "buy",
+    "time_in_force": "day",
+    "limit_price": null,
+    "stop_price": null,
+    "status": "accepted",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "position_intent": "buy_to_open",
+    "ratio_qty": null
+  }
+}

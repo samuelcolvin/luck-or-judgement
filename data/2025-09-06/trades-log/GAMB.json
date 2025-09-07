@@ -1,0 +1,63 @@
+{
+  "trade": {
+    "amount": "62.50050",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "GAMB",
+    "exchange": "NASDAQ"
+  },
+  "order_request": {
+    "symbol": "GAMB",
+    "qty": 8.0,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": {
+    "id": "2db4b55d-d25f-4b29-bc39-1486b716dae7",
+    "client_order_id": "20b70b88-58e5-41e8-8c93-abefeb1c8eba",
+    "created_at": "2025-09-07T02:09:57.237897Z",
+    "updated_at": "2025-09-07T02:09:57.239124Z",
+    "submitted_at": "2025-09-07T02:09:57.237897Z",
+    "filled_at": null,
+    "expired_at": null,
+    "expires_at": "2025-09-08T20:00:00Z",
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "ef80f809-ca09-4c12-97ac-ac7ba086597e",
+    "symbol": "GAMB",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "8",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "simple",
+    "order_type": "market",
+    "type": "market",
+    "side": "buy",
+    "time_in_force": "day",
+    "limit_price": null,
+    "stop_price": null,
+    "status": "accepted",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "position_intent": "buy_to_open",
+    "ratio_qty": null
+  }
+}

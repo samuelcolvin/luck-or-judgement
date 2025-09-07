@@ -1,0 +1,63 @@
+{
+  "trade": {
+    "amount": "65.79000",
+    "sources": [
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
+    ],
+    "symbol": "CLMB",
+    "exchange": "NASDAQ"
+  },
+  "order_request": {
+    "symbol": "CLMB",
+    "qty": 1.0,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": {
+    "id": "d97f9233-d665-42d8-8841-f6360127b6e7",
+    "client_order_id": "1a297038-4dfc-4ef7-ab8e-dbd2b861557b",
+    "created_at": "2025-09-07T02:09:57.046048Z",
+    "updated_at": "2025-09-07T02:09:57.047315Z",
+    "submitted_at": "2025-09-07T02:09:57.046048Z",
+    "filled_at": null,
+    "expired_at": null,
+    "expires_at": "2025-09-08T20:00:00Z",
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "debcece6-c026-48d5-a115-bbf0588c87f2",
+    "symbol": "CLMB",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "1",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "simple",
+    "order_type": "market",
+    "type": "market",
+    "side": "buy",
+    "time_in_force": "day",
+    "limit_price": null,
+    "stop_price": null,
+    "status": "accepted",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "position_intent": "buy_to_open",
+    "ratio_qty": null
+  }
+}
