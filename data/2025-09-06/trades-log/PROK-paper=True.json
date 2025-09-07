@@ -1,0 +1,75 @@
+{
+  "trade": {
+    "amount": "23.02650",
+    "sources": [
+      "openai:gpt-5"
+    ],
+    "symbol": "PROK",
+    "exchange": "NASDAQ"
+  },
+  "requested_quantity": 10.188716814159292,
+  "latest_trade": {
+    "symbol": "PROK",
+    "timestamp": "2025-09-05T19:59:59.872023Z",
+    "exchange": "V",
+    "price": 2.26,
+    "size": 100.0,
+    "id": 566,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
+  },
+  "order_request": {
+    "symbol": "PROK",
+    "qty": 10.0,
+    "notional": null,
+    "side": "buy",
+    "type": "market",
+    "time_in_force": "day",
+    "order_class": null,
+    "extended_hours": null,
+    "client_order_id": null,
+    "legs": null,
+    "take_profit": null,
+    "stop_loss": null,
+    "position_intent": null
+  },
+  "market_order": {
+    "id": "bb4602e4-ff8c-4b15-ab40-1c02ce623642",
+    "client_order_id": "f1a5be19-e725-466f-9329-d117ae631fcb",
+    "created_at": "2025-09-07T15:28:45.889571Z",
+    "updated_at": "2025-09-07T15:28:45.891010Z",
+    "submitted_at": "2025-09-07T15:28:45.889571Z",
+    "filled_at": null,
+    "expired_at": null,
+    "expires_at": "2025-09-08T20:00:00Z",
+    "canceled_at": null,
+    "failed_at": null,
+    "replaced_at": null,
+    "replaced_by": null,
+    "replaces": null,
+    "asset_id": "9fc2d9ee-9891-41f8-9e1b-00f87f5a8da3",
+    "symbol": "PROK",
+    "asset_class": "us_equity",
+    "notional": null,
+    "qty": "10",
+    "filled_qty": "0",
+    "filled_avg_price": null,
+    "order_class": "simple",
+    "order_type": "market",
+    "type": "market",
+    "side": "buy",
+    "time_in_force": "day",
+    "limit_price": null,
+    "stop_price": null,
+    "status": "accepted",
+    "extended_hours": false,
+    "legs": null,
+    "trail_percent": null,
+    "trail_price": null,
+    "hwm": null,
+    "position_intent": "buy_to_open",
+    "ratio_qty": null
+  }
+}

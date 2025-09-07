@@ -1,15 +1,29 @@
 {
   "trade": {
-    "amount": "26.31600",
+    "amount": "42.76350",
     "sources": [
+      "anthropic:claude-opus-4-1-20250805",
       "openai:gpt-5"
     ],
-    "symbol": "HITI",
-    "exchange": "NASDAQ"
+    "symbol": "CIX",
+    "exchange": "AMEX"
+  },
+  "requested_quantity": 1.7718458669981354,
+  "latest_trade": {
+    "symbol": "CIX",
+    "timestamp": "2025-09-03T17:15:17.310076Z",
+    "exchange": "V",
+    "price": 24.135,
+    "size": 100.0,
+    "id": 52983663903078,
+    "conditions": [
+      " "
+    ],
+    "tape": "B"
   },
   "order_request": {
-    "symbol": "HITI",
-    "qty": 8.0,
+    "symbol": "CIX",
+    "qty": 1.0,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -23,11 +37,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "1d808c91-43bc-4001-910d-b82618bb020f",
-    "client_order_id": "817db073-c6d2-416d-b6a9-c23a76e91a2b",
-    "created_at": "2025-09-07T02:09:57.709005Z",
-    "updated_at": "2025-09-07T02:09:57.710349Z",
-    "submitted_at": "2025-09-07T02:09:57.709005Z",
+    "id": "cc2aeb1f-49f9-4ee4-862e-dab3358cd50b",
+    "client_order_id": "6a3ebd82-bbbb-49c5-ae2d-22b368aae158",
+    "created_at": "2025-09-07T15:28:44.869451Z",
+    "updated_at": "2025-09-07T15:28:44.870788Z",
+    "submitted_at": "2025-09-07T15:28:44.869451Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -36,11 +50,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "a97e9e67-a0cd-4764-9934-0c251b72c045",
-    "symbol": "HITI",
+    "asset_id": "8ba46ce5-ae9b-417c-a8d0-b63e078f8e15",
+    "symbol": "CIX",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "8",
+    "qty": "1",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

@@ -1,15 +1,29 @@
 {
   "trade": {
-    "amount": "36.18450",
+    "amount": "59.21100",
     "sources": [
-      "anthropic:claude-opus-4-1-20250805"
+      "anthropic:claude-opus-4-1-20250805",
+      "openai:gpt-5"
     ],
-    "symbol": "ESP",
-    "exchange": "AMEX"
+    "symbol": "BYRN",
+    "exchange": "NASDAQ"
+  },
+  "requested_quantity": 3.0178899082568806,
+  "latest_trade": {
+    "symbol": "BYRN",
+    "timestamp": "2025-09-05T19:59:42.705129Z",
+    "exchange": "V",
+    "price": 19.62,
+    "size": 100.0,
+    "id": 614,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
   },
   "order_request": {
-    "symbol": "ESP",
-    "qty": 1.0,
+    "symbol": "BYRN",
+    "qty": 3.02,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -23,11 +37,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "b1300354-6316-4848-9aa4-17c04cb2ba54",
-    "client_order_id": "7cf4b1bd-0179-4aa1-8fba-36c7df36caa6",
-    "created_at": "2025-09-07T02:09:57.520625Z",
-    "updated_at": "2025-09-07T02:09:57.521860Z",
-    "submitted_at": "2025-09-07T02:09:57.520625Z",
+    "id": "4462483f-fa2c-4fd1-80ab-e4c71e157878",
+    "client_order_id": "e8ff329c-daae-4a76-8b36-14937b0e0121",
+    "created_at": "2025-09-07T15:28:44.594054Z",
+    "updated_at": "2025-09-07T15:28:44.595534Z",
+    "submitted_at": "2025-09-07T15:28:44.594054Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -36,11 +50,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "09fd24bd-6703-4f2b-878b-f4f010054c56",
-    "symbol": "ESP",
+    "asset_id": "dbeb878c-cc6f-476b-a10d-becb7d25e3fa",
+    "symbol": "BYRN",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "1",
+    "qty": "3.02",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

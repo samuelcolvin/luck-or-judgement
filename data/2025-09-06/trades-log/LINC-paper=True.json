@@ -1,16 +1,28 @@
 {
   "trade": {
-    "amount": "42.76350",
+    "amount": "32.89500",
     "sources": [
-      "anthropic:claude-opus-4-1-20250805",
-      "openai:gpt-5"
+      "anthropic:claude-opus-4-1-20250805"
     ],
-    "symbol": "CIX",
-    "exchange": "AMEX"
+    "symbol": "LINC",
+    "exchange": "NASDAQ"
+  },
+  "requested_quantity": 1.6982447083118224,
+  "latest_trade": {
+    "symbol": "LINC",
+    "timestamp": "2025-09-05T19:59:46.555893Z",
+    "exchange": "V",
+    "price": 19.37,
+    "size": 100.0,
+    "id": 265,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
   },
   "order_request": {
-    "symbol": "CIX",
-    "qty": 2.0,
+    "symbol": "LINC",
+    "qty": 1.7,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -24,11 +36,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "e1e7651c-4c8a-4c7c-a758-15c983e9a251",
-    "client_order_id": "1a9dfbab-206a-498b-ab55-d174a54608b9",
-    "created_at": "2025-09-07T02:09:57.424748Z",
-    "updated_at": "2025-09-07T02:09:57.425948Z",
-    "submitted_at": "2025-09-07T02:09:57.424748Z",
+    "id": "50f29e61-76f0-4cd3-b83b-3f79a52fe94f",
+    "client_order_id": "681d9cd8-3ae8-496d-a8ec-cc1d89e6ce82",
+    "created_at": "2025-09-07T15:28:45.373710Z",
+    "updated_at": "2025-09-07T15:28:45.375072Z",
+    "submitted_at": "2025-09-07T15:28:45.373710Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -37,11 +49,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "8ba46ce5-ae9b-417c-a8d0-b63e078f8e15",
-    "symbol": "CIX",
+    "asset_id": "e137ac38-0f63-4e33-9a76-cba054c484b8",
+    "symbol": "LINC",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "2",
+    "qty": "1.7",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

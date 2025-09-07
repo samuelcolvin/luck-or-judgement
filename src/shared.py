@@ -16,6 +16,7 @@ COMPANY_DATA_DIR = DATA_DIR / 'company-data'
 COMPANY_DATA_DIR.mkdir(exist_ok=True, parents=True)
 ASSETS_FILE = DATA_DIR / 'assets.parquet'
 KNOWN_COMPANIES_FILE = DATA_DIR / 'known-companies.json'
+
 DAY_DATA_DIR = DATA_DIR / str(date.today())
 
 DAY_RESEARCH_DIR = DAY_DATA_DIR / 'research'

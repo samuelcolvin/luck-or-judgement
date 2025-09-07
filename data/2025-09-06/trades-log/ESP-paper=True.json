@@ -1,16 +1,28 @@
 {
   "trade": {
-    "amount": "88.81650",
+    "amount": "36.18450",
     "sources": [
-      "anthropic:claude-opus-4-1-20250805",
-      "openai:gpt-5"
+      "anthropic:claude-opus-4-1-20250805"
     ],
-    "symbol": "MGNI",
-    "exchange": "NASDAQ"
+    "symbol": "ESP",
+    "exchange": "AMEX"
+  },
+  "requested_quantity": 0.715320747257092,
+  "latest_trade": {
+    "symbol": "ESP",
+    "timestamp": "2025-09-05T17:21:28.092537Z",
+    "exchange": "V",
+    "price": 50.585,
+    "size": 100.0,
+    "id": 52983710836293,
+    "conditions": [
+      " "
+    ],
+    "tape": "B"
   },
   "order_request": {
-    "symbol": "MGNI",
-    "qty": 4.0,
+    "symbol": "ESP",
+    "qty": 1.0,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -24,11 +36,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "2804ee3e-63d2-4763-8c61-3fa9eefd9bfb",
-    "client_order_id": "65319131-aa58-4a7d-8157-02c84a1dc372",
-    "created_at": "2025-09-07T02:09:56.855579Z",
-    "updated_at": "2025-09-07T02:09:56.856768Z",
-    "submitted_at": "2025-09-07T02:09:56.855579Z",
+    "id": "b9cb3d09-ccf8-4468-a41b-b179257ddaca",
+    "client_order_id": "086b91d3-8db6-4906-a086-e77125628da6",
+    "created_at": "2025-09-07T15:28:45.112837Z",
+    "updated_at": "2025-09-07T15:28:45.114278Z",
+    "submitted_at": "2025-09-07T15:28:45.112837Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -37,11 +49,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "63107c75-e53d-4119-9f68-694ee0b1bf3a",
-    "symbol": "MGNI",
+    "asset_id": "09fd24bd-6703-4f2b-878b-f4f010054c56",
+    "symbol": "ESP",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "4",
+    "qty": "1",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

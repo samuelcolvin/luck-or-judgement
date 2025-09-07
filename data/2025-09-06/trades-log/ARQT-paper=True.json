@@ -1,15 +1,30 @@
 {
   "trade": {
-    "amount": "19.73700",
+    "amount": "184.21200",
     "sources": [
-      "anthropic:claude-opus-4-1-20250805"
+      "anthropic:claude-opus-4-1-20250805",
+      "google-vertex:gemini-2.5-pro",
+      "openai:gpt-5"
     ],
-    "symbol": "CBAN",
+    "symbol": "ARQT",
     "exchange": "NASDAQ"
   },
+  "requested_quantity": 10.706887532693985,
+  "latest_trade": {
+    "symbol": "ARQT",
+    "timestamp": "2025-09-05T19:59:54.048366Z",
+    "exchange": "V",
+    "price": 17.205,
+    "size": 100.0,
+    "id": 1419,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
+  },
   "order_request": {
-    "symbol": "CBAN",
-    "qty": 1.0,
+    "symbol": "ARQT",
+    "qty": 10.71,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -23,11 +38,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "4e350152-b3b2-4628-a250-02d691947f7d",
-    "client_order_id": "f34f2d55-452f-4f95-bb11-620937c49c3e",
-    "created_at": "2025-09-07T02:09:57.988147Z",
-    "updated_at": "2025-09-07T02:09:57.989380Z",
-    "submitted_at": "2025-09-07T02:09:57.988147Z",
+    "id": "3595dfe6-abba-460b-849c-d8032030e1c6",
+    "client_order_id": "f7c6a586-b5c7-4ec1-acaa-880cf2fb2a85",
+    "created_at": "2025-09-07T15:28:43.084233Z",
+    "updated_at": "2025-09-07T15:28:43.085523Z",
+    "submitted_at": "2025-09-07T15:28:43.084233Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -36,11 +51,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "e0f23b6b-c77f-456b-b563-aa2cf9655637",
-    "symbol": "CBAN",
+    "asset_id": "2cf4f71c-d90f-4e0b-92be-8c4dd24a0c11",
+    "symbol": "ARQT",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "1",
+    "qty": "10.71",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

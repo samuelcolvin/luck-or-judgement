@@ -1,15 +1,29 @@
 {
   "trade": {
-    "amount": "23.02650",
+    "amount": "88.81650",
     "sources": [
+      "anthropic:claude-opus-4-1-20250805",
       "openai:gpt-5"
     ],
-    "symbol": "PROK",
+    "symbol": "MGNI",
     "exchange": "NASDAQ"
   },
+  "requested_quantity": 3.5755434782608697,
+  "latest_trade": {
+    "symbol": "MGNI",
+    "timestamp": "2025-09-05T19:59:52.877671Z",
+    "exchange": "V",
+    "price": 24.84,
+    "size": 100.0,
+    "id": 1751,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
+  },
   "order_request": {
-    "symbol": "PROK",
-    "qty": 10.0,
+    "symbol": "MGNI",
+    "qty": 3.58,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -23,11 +37,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "e8371f90-aa48-47df-bc50-d452151e5aa5",
-    "client_order_id": "611f8f79-0395-40a5-ac7f-fef6831c14f8",
-    "created_at": "2025-09-07T02:09:57.804383Z",
-    "updated_at": "2025-09-07T02:09:57.805748Z",
-    "submitted_at": "2025-09-07T02:09:57.804383Z",
+    "id": "873da757-1dde-4853-8005-02958fda9c21",
+    "client_order_id": "d61eb331-5211-44ae-be2d-9e0434ed86ac",
+    "created_at": "2025-09-07T15:28:43.329665Z",
+    "updated_at": "2025-09-07T15:28:43.331082Z",
+    "submitted_at": "2025-09-07T15:28:43.329665Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -36,11 +50,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "9fc2d9ee-9891-41f8-9e1b-00f87f5a8da3",
-    "symbol": "PROK",
+    "asset_id": "63107c75-e53d-4119-9f68-694ee0b1bf3a",
+    "symbol": "MGNI",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "10",
+    "qty": "3.58",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

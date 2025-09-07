@@ -1,15 +1,30 @@
 {
   "trade": {
-    "amount": "82.23750",
+    "amount": "187.50150",
     "sources": [
-      "google-vertex:gemini-2.5-pro"
+      "anthropic:claude-opus-4-1-20250805",
+      "google-vertex:gemini-2.5-pro",
+      "openai:gpt-5"
     ],
-    "symbol": "MPAA",
+    "symbol": "BWAY",
     "exchange": "NASDAQ"
   },
+  "requested_quantity": 11.826017029328288,
+  "latest_trade": {
+    "symbol": "BWAY",
+    "timestamp": "2025-09-05T19:59:47.808718Z",
+    "exchange": "V",
+    "price": 15.855,
+    "size": 100.0,
+    "id": 11,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
+  },
   "order_request": {
-    "symbol": "MPAA",
-    "qty": 6.0,
+    "symbol": "BWAY",
+    "qty": 11.0,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -23,11 +38,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "84016ffa-9fc6-4754-a6df-27930c2a5dbe",
-    "client_order_id": "e6eef7b9-3546-4b78-a519-c0752fe8572b",
-    "created_at": "2025-09-07T02:09:56.948668Z",
-    "updated_at": "2025-09-07T02:09:56.949862Z",
-    "submitted_at": "2025-09-07T02:09:56.948668Z",
+    "id": "221d0472-0ac9-4c1f-b08d-05e87d3b9a69",
+    "client_order_id": "f04b6840-b4aa-4260-9e3d-93fd4bf42d3a",
+    "created_at": "2025-09-07T15:28:42.842713Z",
+    "updated_at": "2025-09-07T15:28:42.843721Z",
+    "submitted_at": "2025-09-07T15:28:42.842713Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -36,11 +51,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "d361dc10-ac8f-4c2a-9090-f2b5297e888a",
-    "symbol": "MPAA",
+    "asset_id": "61b883a8-f231-4bec-8911-d74e1c923c5f",
+    "symbol": "BWAY",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "6",
+    "qty": "11",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",

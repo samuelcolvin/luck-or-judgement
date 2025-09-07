@@ -1,15 +1,27 @@
 {
   "trade": {
-    "amount": "59.21100",
+    "amount": "65.79000",
     "sources": [
-      "anthropic:claude-opus-4-1-20250805",
-      "openai:gpt-5"
+      "google-vertex:gemini-2.5-pro"
     ],
-    "symbol": "BYRN",
+    "symbol": "JMSB",
     "exchange": "NASDAQ"
   },
+  "requested_quantity": 3.287856071964018,
+  "latest_trade": {
+    "symbol": "JMSB",
+    "timestamp": "2025-09-05T13:52:02.888956Z",
+    "exchange": "V",
+    "price": 20.01,
+    "size": 100.0,
+    "id": 2,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
+  },
   "order_request": {
-    "symbol": "BYRN",
+    "symbol": "JMSB",
     "qty": 3.0,
     "notional": null,
     "side": "buy",
@@ -24,11 +36,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "8e725752-5777-4ea9-b869-010193459477",
-    "client_order_id": "62f349a0-cc71-40bb-a57d-2cc37e6c1570",
-    "created_at": "2025-09-07T02:09:57.329079Z",
-    "updated_at": "2025-09-07T02:09:57.330295Z",
-    "submitted_at": "2025-09-07T02:09:57.329079Z",
+    "id": "646238aa-e78c-441f-a33b-577411314475",
+    "client_order_id": "e2f4f523-9278-4d01-979b-f5bc1f0a5b8f",
+    "created_at": "2025-09-07T15:28:44.081587Z",
+    "updated_at": "2025-09-07T15:28:44.082995Z",
+    "submitted_at": "2025-09-07T15:28:44.081587Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -37,8 +49,8 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "dbeb878c-cc6f-476b-a10d-becb7d25e3fa",
-    "symbol": "BYRN",
+    "asset_id": "b3a39f19-e903-43f9-b60e-0094cfe4b5b5",
+    "symbol": "JMSB",
     "asset_class": "us_equity",
     "notional": null,
     "qty": "3",

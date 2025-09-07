@@ -1,15 +1,29 @@
 {
   "trade": {
-    "amount": "23.02650",
+    "amount": "65.79000",
     "sources": [
+      "anthropic:claude-opus-4-1-20250805",
       "openai:gpt-5"
     ],
-    "symbol": "XTNT",
-    "exchange": "AMEX"
+    "symbol": "CLMB",
+    "exchange": "NASDAQ"
+  },
+  "requested_quantity": 0.5104748603351956,
+  "latest_trade": {
+    "symbol": "CLMB",
+    "timestamp": "2025-09-05T19:58:06.922203Z",
+    "exchange": "V",
+    "price": 128.88,
+    "size": 100.0,
+    "id": 107,
+    "conditions": [
+      "@"
+    ],
+    "tape": "C"
   },
   "order_request": {
-    "symbol": "XTNT",
-    "qty": 38.0,
+    "symbol": "CLMB",
+    "qty": 0.51,
     "notional": null,
     "side": "buy",
     "type": "market",
@@ -23,11 +37,11 @@
     "position_intent": null
   },
   "market_order": {
-    "id": "efbf4419-c0fb-4412-a13f-d20fa5e5ea39",
-    "client_order_id": "00e46124-9da5-4f9e-8260-a41e3719bc61",
-    "created_at": "2025-09-07T02:09:57.895646Z",
-    "updated_at": "2025-09-07T02:09:57.896978Z",
-    "submitted_at": "2025-09-07T02:09:57.895646Z",
+    "id": "ea0a7a0e-c915-4433-aca5-7341d74ab4ec",
+    "client_order_id": "0dc93627-376d-4776-8452-737f3754dc3d",
+    "created_at": "2025-09-07T15:28:43.829950Z",
+    "updated_at": "2025-09-07T15:28:43.831416Z",
+    "submitted_at": "2025-09-07T15:28:43.829950Z",
     "filled_at": null,
     "expired_at": null,
     "expires_at": "2025-09-08T20:00:00Z",
@@ -36,11 +50,11 @@
     "replaced_at": null,
     "replaced_by": null,
     "replaces": null,
-    "asset_id": "dab31879-cc49-49dc-937d-15ae9eac9ca1",
-    "symbol": "XTNT",
+    "asset_id": "debcece6-c026-48d5-a115-bbf0588c87f2",
+    "symbol": "CLMB",
     "asset_class": "us_equity",
     "notional": null,
-    "qty": "38",
+    "qty": "0.51",
     "filled_qty": "0",
     "filled_avg_price": null,
     "order_class": "simple",
